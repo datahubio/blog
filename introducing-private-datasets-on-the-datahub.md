@@ -22,7 +22,7 @@ https://datahub.io/download
 
 Once you are ready to publish your data, just select "private" option and then press "Go" button:
 
-![](/static/img/docs/push-private.png)
+![](push-private.png)
 
 
 >[!info]Learn more about using the "Data" app [here](http://datahub.io/blog/data-desktop-app-alpha-release).

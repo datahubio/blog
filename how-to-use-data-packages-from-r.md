@@ -26,7 +26,7 @@ print(json_data$resources$name)
 
 and you would get following table printed:
 
-![](/static/img/docs/r-screenshot-resources.png)
+![](r-screenshot-resources.png)
 
 
 Our data is now available in different formats such as CSV, JSON, ZIP. To get it in the CSV format:
@@ -42,4 +42,4 @@ for(i in 1:length(json_data$resources$datahub$type)){
 }
 ```
 
-![](/static/img/docs/r-screenshot-data.png)
+![](r-screenshot-data.png)

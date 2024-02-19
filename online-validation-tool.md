@@ -24,7 +24,7 @@ Here you can read about the [full data validation on the DataHub](https://datahu
 
 We try to create a Data Package object using [datapackage-js](https://github.com/frictionlessdata/datapackage-js) and then show user any errors the Data Package has with `Package.valid` and `Package.errors` methods. For example, here we validate following [datapackage.json](https://raw.githubusercontent.com/frictionlessdata/test-data/master/packages/invalid-descriptor/datapackage.json) file that has invalid `name` property:
 
-![](/static/img/docs/online-validation-tool-invalid-package.png)
+![](online-validation-tool-invalid-package.png)
 
 To create a valid Data Package, please read full datapackage.json specs here:
 

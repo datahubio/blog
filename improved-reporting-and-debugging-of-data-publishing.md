@@ -10,19 +10,19 @@ We've integrated our pipelines system with the website to display more insights 
 
 While your dataset is being processed, you can see a dataset page with information about currently running steps. For instance, it might be creating a JSON version of your tabular data or validating it against a table schema:
 
-![](/static/img/docs/processing-dataset.gif)
+![](processing-dataset.gif)
 
 ## Succeeded
 
 This is just a regular dataset page you have seen before:
 
-![](/static/img/docs/succeeded-dataset.png)
+![](succeeded-dataset.png)
 
 ## Failed
 
 If processing a dataset has failed, you would see a notice about it with a pipeline title that caused the error. You can also expand the error to read the logs and find out the reason for the failure:
 
-![](/static/img/docs/failed-dataset.gif)
+![](failed-dataset.gif)
 
 
 ## Different versions of your dataset

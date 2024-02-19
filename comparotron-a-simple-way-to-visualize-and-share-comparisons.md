@@ -27,9 +27,9 @@ The first mockup of the idea (by David McCandless) done for the [Where Does My M
 
 This is all real data by the way!
 
-![](/static/img/blog/comparotron-v0.2-march-2020-coronavirus-vs-flu.svg)
+![](comparotron-v0.2-march-2020-coronavirus-vs-flu.svg)
 
-![](/static/img/blog/comparotron-v0.2-march-2020-military-vs-aid.svg)
+![](comparotron-v0.2-march-2020-military-vs-aid.svg)
 
  ## History
 
@@ -93,11 +93,11 @@ Here's the hand-crafted examples with we did (with real data)!
 
 ### US Spending on Military vs Aid
 
-![](/static/img/blog/comparotron-v0.2-march-2020-military-vs-aid.svg)
+![](comparotron-v0.2-march-2020-military-vs-aid.svg)
 
 ### Coronavirus (COVID-19) vs Flu Mortality Rates
 
-![](/static/img/blog/comparotron-v0.2-march-2020-coronavirus-vs-flu.svg)
+![](comparotron-v0.2-march-2020-coronavirus-vs-flu.svg)
 
 ## Next Steps
 
