@@ -12,7 +12,7 @@
 
 [[markdowndb-launch|Announcing MarkdownDB: an open source tool to create an SQL API to your markdown files! 🚀]]
 
-MarkdownDB - an open source library to transform markdown content into sql-queryable data. Build rich markdown-powered sites easily and reliably. New dedicated website at markdowndb.com\n
+MarkdownDB - an open source library to transform markdown content into sql-queryable data. Build rich markdown-powered sites easily and reliably. New dedicated website at markdowndb.com
 
 ---
 
