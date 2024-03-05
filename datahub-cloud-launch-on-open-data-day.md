@@ -1,8 +1,7 @@
 ---
-title: "DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds"
+title: DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds
 date: 2024-03-05
-authors: ['Yoana Popova']
-filetype: blog
+authors: ['popovayoana']
 ---
 
 
