@@ -1,7 +1,7 @@
 # Blog
 ---
 
-**2023-12-12**
+**2024-03-05**
 
 [[datahub-cloud-launch-on-open-data-day.md|DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds]]
 
