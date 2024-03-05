@@ -3,7 +3,7 @@
 
 **2024-03-05**
 
-[[datahub-cloud-launch-on-open-data-day.md|DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds]]
+[[datahub-cloud-launch-on-open-data-day|DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds]]
 
 ---
 
