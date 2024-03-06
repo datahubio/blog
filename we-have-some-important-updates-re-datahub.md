@@ -13,8 +13,9 @@ We’d like to let you know about some upcoming changes to DataHub.io! We’re a
 
 We’ve got some big plans which we will be sharing about in future mails. For now, the main thing to know is that we are planning a full upgrade of the experience. **If you're interested in getting early access to the new experience, click the button below:**
 
-**[Join our Early Access Waitlist](https://0613d040.sibforms.com/serve/MUIEAKdnlWCDBDDJV9IVo4Eb7qQj2dn7DcCg2GaKsmUcila2cPEbixiC7RFNhIT1ow-aEY9Ny4ouLYKC3xBUMtlAyninCuu5ar4nNlbtDtyJ2uJBZYcznOMw3jtJW050VxpmiXQ8aKMA0Fh4N25x7Gu3XD9yhaETRON_fxqWbgId6r81ex02vPTpJUiaa6N-GUlTdbgzlFKSfYEn?utm_source=sendinblue&utm_campaign=datahub-important-upgrades&utm_medium=email)**
+**~~Join our Early Access Waitlist~~**
 
+**UPDATE: the new experience is live! To sign up visit 👉 https://datahub.io/**
 
 #### **🚩 Important Changes**
 
