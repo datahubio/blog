@@ -2,33 +2,63 @@
 
 ## Introduction
 
-In this tutorial, we're going to explore how you can personalise the appearance of your DataHub Cloud site. By the end of this tutorial, you'll learn how to use a `custom.css` file to adjust existing styles and how to utilise the "unstyled" layout for complete customisation freedom.
+In this tutorial, we're going to explore how you can personalise the appearance of your DataHub Cloud site. By the end of this tutorial, you'll learn how to use a `custom.css` file to adjust existing styles and how to add and style a simple hero to your landing page.
 
 ### What You'll Need
 
-- GitHub account.
+- GitHub account and basic knowledge of GitHub UI (especially editing and adding files)
 - A [DataHub Cloud](https://datahub.io/) site you want to customise.
-- Basic knowledge of CSS.
+- Basic knowledge of CSS (or more, depending on what you want to achieve)
 - Basic knowledge of browser developer tools.
 
-## Part 1: Adjusting Existing Styles with `custom.css`
+## Part 1: Adjusting Default Styles with `custom.css`
 
-Here is an example landing page of a site published with DataHub Cloud that we're going to style.
+Here is an example landing page of a site published with DataHub Cloud that we're going to style. You can use any of your DataHub Cloud sites.
 
 ![[Pasted image 20240430201032.png]]
+Here is the underlying markdown content:
 
+```md
+---
+title: My Musings & Memories 🧘‍♀️🏄‍♀️🏔️
+description: "Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!"
+date: 2024-04-24]
+---
 
+## Recent Posts
+
+- [[/life-lessons-learned|Life Lessons Learned]]
+- [[/travel-thailand#Bangkok at Night|Travel to Thailand]]
+- [[/blog/javascript-tips|Let's Talk JavaScript]]
+
+## Featured Content
+
+> [!info] Don't forget to check:
+> [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
+
+---
+
+### Photo of the Week
+
+![[auroras.jpeg]]
+
+---
+
+...
+```
 
 ### Step 1: Create the `custom.css` File
 
-In your GitHub repository, create a file named `custom.css`. This file should be in the root directory of the repo.
+In the root of your site's GitHub repository, create a file named `custom.css`. 
 
 > [!important]
-> If you're site is published off of a subfolder of your repository (i.e. you've specified "Root Directory" config field), the `custom.css` file should be placed in the root of that subfolder.
+> If you're site is published from a subfolder of your repository (i.e. you've specified "Root Directory" config field), the `custom.css` file should be placed in that subfolder.
 
 ### Step 2: Change Background Colour & Heading Fonts
 
-Add the following CSS rules in your `custom.css` file to change the font and color of all headings on your site:
+Now, let's change the background colour and heading fonts a bit.
+
+Add the following CSS rules in your `custom.css` file and commit your changes. Then, go to your DataHub Cloud dashboard and **sync your site**.
 
 ```css
 /* Change heading fonts and colors */
@@ -55,14 +85,14 @@ h3, h6 {
 ```
 
 > [!note]
-> Note, that we need to override the existing styles with `!important ` rule. This may not be needed each time, but if you're trying to tweak some styles and there is no effect, you may need to use it.
+> Note, that we needed to override the existing styles with `!important ` rule. This may not be needed each time, but if you're trying to tweak some styles and there is no effect, you may need to use it.
 
-Here is the end result on our example page:
+Here is the end result on our example page. Pretty nice, huh?
 
 ![[Pasted image 20240430202612.png]]
-### Step 3: Customise Anything You Want
+### Step 3: Style Anything You Want
 
-Those were just some basic examples of tweaking css on your site. But you can style virtually anything you can see on your page. You just need to find out how to properly "select" that HTML element in your `custom.css`. 
+This was just a basic example of tweaking css on your DataHub Cloud site. But you can style virtually anything you can see on your page. You just need to find out how to properly "select" the HTML element you want to style in your `custom.css`. 
 
 How? Developer console to the rescue! 
 
@@ -72,71 +102,124 @@ You can open it using the following keys combination:
 
 Now you should be able to hover over the elements you see on your site's page and find an underlying HTML element to learn how you can point at it in you custom CSS config.
 
-## Part 2: Using the `unstyled` Layout
+> [!note] Disclaimer
+> This is not a tutorial on CSS and CSS selectors, so you need to do your own research here 😉
 
-There may be times when you might want to go a bit further and you basically want to undo or override most of the site's default styles. This may be especially useful when creating landing pages.
+## Part 2: Adding a Simple HTML Hero
 
-So, let's say we want to create a proper landing page
+Did you know that you can include HTML tags in your markdown? If not, let me show you how.
+Then, you'll be able to use the knowledge from Part 1 and style those elements too!
 
-### Step 1: Opting for an "Unstyled" Layout
+Let's try replacing the current header (title, description, and date) in our example with a simple hero element.
 
-In certain scenarios, you might prefer to start with a clean slate, particularly for bespoke pages like a custom landing page. To do this:
+#### Step 1: Add a Simple HTML Hero
 
-1. Create or edit a Markdown file for which you want an "unstyled" layout.
-2. Add a front matter block at the beginning of the file specifying the layout type:
-
-```yaml
----
-layout: 'unstyled'
----
-```
-
-This setup instructs DataHub Cloud to render the page without applying any default styles, giving you full control over its appearance.
-
-### Step 2: Adding a Simple HTML Hero
-
-Within the same Markdown file, you can directly include HTML. Add your hero section as follows:
+Let's replace the current frontmatter with the following HTML snippet:
 
 ```html
-<!-- Simple HTML Hero -->
-<div class="custom-hero">
-    <h1>Welcome to Our Site</h1>
-    <p>Explore our world of markdown magic.</p>
+<div class="hero">
+    <h1 class="hero-title">My Musings & Memories<br/>🧘‍♀️🏄‍♀️🏔️</h1>
+    <p class="hero-description">Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!</p>
+    <a href="/blog" class="hero-button">See my blog</a>
 </div>
 ```
 
-### Step 3: Styling Your Hero in `custom.css`
+The markdown file now looks like this:
 
-Back in your `custom.css` file, add styles for your custom hero section:
+```md
+<div class="hero">
+    <h1 class="hero-title">My Musings & Memories 🧘‍♀️🏄‍♀️🏔️</h1>
+    <p class="hero-description">Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!</p>
+    <a href="/blog" class="hero-button">See my blog</a>
+</div>
 
-```css
-.custom-hero {
-    background-color: #007BFF; /* Blue background */
-    color: white; /* White text */
-    padding: 20px; /* Some padding */
-    text-align: center; /* Centered text */
-}
+## Recent Posts
 
-.custom-hero h1 {
-    margin: 0 0 10px 0; /* Adjust margins as needed */
-}
+- [[/life-lessons-learned|Life Lessons Learned]]
+- [[/travel-thailand#Bangkok at Night|Travel to Thailand]]
+- [[/blog/javascript-tips|Let's Talk JavaScript]]
 
-.custom-hero p {
-    margin: 0; /* Remove paragraph margins */
-}
-```
+## Featured Content
 
-Once again, commit and push your changes. DataHub Cloud will update your site, and your custom-styled hero section should now be visible on the specified page.
-
-## Conclusion
-
-Congratulations! You've just learned how to customize the appearance of your DataHub Cloud site using a `custom.css` file for subtle tweaks and how to employ an "unstyled" layout for more significant customizations. These techniques empower you to tailor your site to match your vision or brand identity closely. Explore, experiment, and most importantly, have fun designing your site.
-
-Feel free to revisit this tutorial whenever you need to make further customizations or need a refresher on applying CSS to your DataHub Cloud site.
+> [!info] Don't forget to check:
+> [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
 
 ---
 
-Remember, the visual identity of your site plays a crucial role in engaging your audience, so take advantage of these customization capabilities to make your site stand out.
+### Photo of the Week
+
+![[auroras.jpeg]]
+
+---
+```
+
+Now, commit your changes.
+
+### Step 2: Style Your Hero with `custom.css`
+
+Back in your `custom.css` file, add the following styles (or other!) for your custom hero section:
+
+```css
+...
+
+.hero {
+  background-color: #508484;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  padding: 0 36px;
+}
+
+.hero-title {
+  font-size: 4rem;
+    color: #E35AA6 !important;
+    margin-bottom: 0px;
+}
+
+.hero-description {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.hero-button {
+  background-color: #fff;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+}
+
+.hero-button:hover {
+  background-color: #D679AC;
+  color: #fff;
+}
+```
+
+Once again, commit your changes. Now, head to your DataHub Cloud dashboard and **sync your site**. Now you can refresh your browser and you should see your landing page with the styled hero. Our example looks like this:
+
+![[Pasted image 20240501130857.png]]
+You can also add this extra hack to make the hero break out of the parent container and span the whole site width:
+
+```css
+.hero {
+  ...
+  margin: 0 calc(min(28rem - 1.5rem - 50vw, 0px));
+  margin-top: -3rem;
+}
+```
+
+![[Pasted image 20240501134110.png]]
+## Conclusion
+
+Congratulations! You've just learned how to customize the appearance of your DataHub Cloud site using a `custom.css` file for subtle and not-so-subtle tweaks of your sites style. Explore, experiment, and most importantly, have fun designing your site.
+
+---
 
 If you encounter any issues or have questions, the DataHub Cloud community and support team are here to help.
 
