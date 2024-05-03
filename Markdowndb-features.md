@@ -9,7 +9,6 @@ filetype: blog
 ## Introduction
 
 MarkdownDB continues to evolve, introducing new features to enhance the management of Markdown files. In this blog post, we're thrilled to present three exciting features: export to JSON files, task extraction, and computed fields.
-MarkdownDB continues to evolve, introducing new features to enhance the management of Markdown files. In this blog post, we're thrilled to present three exciting features: export to JSON files, task extraction, and computed fields.
 
 ## Export to JSON files 📤
 
