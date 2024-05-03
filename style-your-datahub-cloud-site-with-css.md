@@ -15,7 +15,8 @@ In this tutorial, we're going to explore how you can personalise the appearance 
 
 Here is an example landing page of a site published with DataHub Cloud that we're going to style. You can use any of your DataHub Cloud sites.
 
-![[Pasted image 20240430201032.png]]
+![[css-tutorial-1.png]]
+
 Here is the underlying markdown content:
 
 ```md
@@ -89,7 +90,8 @@ h3, h6 {
 
 Here is the end result on our example page. Pretty nice, huh?
 
-![[Pasted image 20240430202612.png]]
+![[css-tutorial-2.png]]
+
 ### Step 3: Style Anything You Want
 
 This was just a basic example of tweaking css on your DataHub Cloud site. But you can style virtually anything you can see on your page. You just need to find out how to properly "select" the HTML element you want to style in your `custom.css`. 
@@ -203,7 +205,8 @@ Back in your `custom.css` file, add the following styles (or other!) for your cu
 
 Once again, commit your changes. Now, head to your DataHub Cloud dashboard and **sync your site**. Now you can refresh your browser and you should see your landing page with the styled hero. Our example looks like this:
 
-![[Pasted image 20240501130857.png]]
+![[css-tutorial-3.png]]
+
 You can also add this extra hack to make the hero break out of the parent container and span the whole site width:
 
 ```css
@@ -214,7 +217,8 @@ You can also add this extra hack to make the hero break out of the parent contai
 }
 ```
 
-![[Pasted image 20240501134110.png]]
+![[css-tutorial-4.png]]
+
 ## Conclusion
 
 Congratulations! You've just learned how to customize the appearance of your DataHub Cloud site using a `custom.css` file for subtle and not-so-subtle tweaks of your sites style. Explore, experiment, and most importantly, have fun designing your site.
