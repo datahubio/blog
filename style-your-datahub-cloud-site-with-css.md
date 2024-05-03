@@ -96,14 +96,6 @@ Here is the end result on our example page. Pretty nice, huh?
 
 This was just a basic example of tweaking css on your DataHub Cloud site. But you can style virtually anything you can see on your page. You just need to find out how to properly "select" the HTML element you want to style in your `custom.css`. 
 
-How? Developer console to the rescue! 
-
-You can open it using the following keys combination:
-- Windows or Linux: Ctrl + Shift + C
-- MacOS: Cmd + Option + C
-
-Now you should be able to hover over the elements you see on your site's page and find an underlying HTML element to learn how you can point at it in you custom CSS config.
-
 > [!note] Disclaimer
 > This is not a tutorial on CSS and CSS selectors, so you need to do your own research here 😉
 
