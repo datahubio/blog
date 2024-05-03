@@ -1,6 +1,12 @@
 # Blog
 ---
 
+**2024-05-03**
+
+[[style-your-datahub-cloud-site-with-css|Learn how to style you DataHub Cloud sites with custom CSS]]
+
+---
+
 **2024-03-05**
 
 [[datahub-cloud-launch-on-open-data-day|DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds]]
