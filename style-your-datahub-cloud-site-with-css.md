@@ -52,7 +52,7 @@ date: 2024-04-24
 In the root of your site's GitHub repository, create a file named `custom.css`. 
 
 > [!important]
-> If you're site is published from a subfolder of your repository (i.e. you've specified "Root Directory" config field), the `custom.css` file should be placed in that subfolder.
+> If your site is published from a subfolder of your repository (i.e. you've specified "Root Directory" config field), the `custom.css` file should be placed in that subfolder.
 
 ### Step 2: Change Background Colour & Heading Fonts
 
