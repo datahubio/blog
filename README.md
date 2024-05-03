@@ -3,7 +3,7 @@
 
 **2024-05-03**
 
-[[style-your-datahub-cloud-site-with-css|Learn how to style you DataHub Cloud sites with custom CSS]]
+[[style-your-datahub-cloud-site-with-css|Learn how to style your DataHub Cloud sites with custom CSS]]
 
 ---
 
