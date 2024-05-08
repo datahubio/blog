@@ -1,6 +1,10 @@
 # Blog
 ---
 
+**2024-05-08**
+
+[[markdowndb-computed-fields|Learn how to extract any data from markdown files]]
+
 **2024-05-03**
 
 [[style-your-datahub-cloud-site-with-css|Learn how to style your DataHub Cloud sites with custom CSS]]
