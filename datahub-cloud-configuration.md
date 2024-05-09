@@ -64,3 +64,6 @@ To put links on the navigation bar, you just need to list them in your config fi
 
 Now the navigation bar should have the new links.
 ![[Datahub-cloud-navlinks-demo.png]]
+
+## Conclusion
+For more information and to join our community, visit us at [datahub.io](datahub.io) and connect with us on [Discord](https://discord.gg/DVfydeGNuT). We'd love for you to be a part of our Discord community - it's the perfect spot to meet fellow data enthusiasts, get the latest updates, ask for help, and share your thoughts with us.
