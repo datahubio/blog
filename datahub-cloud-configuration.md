@@ -1,27 +1,66 @@
-# DataHub Cloud Configuration: Personalize Your DataHub Website
+# How to Configure Your DataHub Cloud Site's Navigation Bar and Basic SEO Fields
 
-DataHub Cloud empowers you to personalize your website using a configuration file named `config.json`. This file resides in your project's root directory and enables you to customize various visual elements of your DataHub Cloud website.
+You can now personalize your site by setting a title, customizing the logo, and adding your own navigation links.
 
-## Craft a Unique Identity for Your DataHub Website
+## Improve SEO by Giving Your Site a Special Name, Description, and Author
 
-With `config.json`, you can design a distinctive identity for your DataHub Cloud website. Here's a breakdown of the configurable properties:
+By adding a `config.json` file in the root directory of your site, you can give your DataHub site a name that will be included on every page to improve your site's SEO.
 
-- **Website Title:** This property sets the title that displays at the top of your browser window. Make it catchy and informative!
-- **Website Description:** Provide a concise description of your DataHub Cloud website using the `description` property. This description can be helpful for new users who are unfamiliar with your project's purpose.
-- **Author:** Let everyone know who created this amazing DataHub Cloud website by attributing it to yourself or your team using the `author` property.
-
-### Putting it all Together: A Sample Configuration
-
-Here's an example of a `config.json` file that demonstrates how to configure these properties:
-
-JSON
+Here's how you can add a title, description, and author for your site. You can make those changes by adding a `root_path/config.json` file:
 
 ```json
 {
-  "title": "My Awesome DataHub Website",
-  "description": "This is a customized DataHub Cloud website for managing our company's data",
-  "author": "The Data Engineering Team"
+  "title": "My Great DataHub Site",
+  "description": "This is a custom DataHub site for our company's data",
+  "author": "The Data Team"
 }
 ```
 
-By incorporating a `config.json` file, you can transform your DataHub Cloud website into a personalized and informative experience for all users.
+Now your website should have the title as the website title, and the author and description will only affect the site's SEO.
+![[Datahub-cloud-title-demo.png]]
+
+## Adding site logo
+
+To add a logo, you can add a URL pointing to your logo in the `config.json` file. for example let's add a logo to our `config.json` file we currently have.
+
+```json
+{
+  "title": "My Great DataHub Site",
+  "description": "This is a custom DataHub site for our company's data",
+  "author": "The Data Team",
+
+  "logo": "https://images.unsplash.com/photo-1611267254323-4db7b39c732c?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}
+```
+
+Now your website should have the logo as the website logo in the navigation bar.
+![[Datahub-cloud-logo-config-demo.png]]
+
+## Changing the links in the navigation bar
+
+To put links on the navigation bar, you just need to list them in your config file. Each link needs two things:
+
+- `name`: what it's called on the bar
+- `href`: where it goes when clicked
+
+```json
+{
+ "title": "My Great DataHub Site",
+ "description": "This is a custom DataHub site for our company's data",
+ "author": "The Data Team"
+
+ "navLinks": [
+  {
+   "href": "https://discord.gg/DVfydeGNuT",
+   "name": "Join our discord!"
+  }, 
+  {
+  "href": "https://twitter.com/datopian",
+  "name": "Follow us on social media"
+  }
+ ]
+}
+```
+
+Now the navigation bar should have the new links.
+![[Datahub-cloud-navlinks-demo.png]]
