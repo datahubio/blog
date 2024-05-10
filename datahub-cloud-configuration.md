@@ -1,8 +1,8 @@
-# How to Configure Your DataHub Cloud Site's Navigation Bar and Basic SEO Fields
+# How to Configure Your DataHub Cloud Site's Navigation Bar and Set Basic SEO Fields
 
-You can now personalize your site by setting a title, customizing the logo, and adding your own navigation links.
+You can now personalize your site by changing the navbar's logo, title and adding your own navigation links. You can also set your own site-wide SEO title and description.
 
-## Improve SEO by Giving Your Site a Special Name, Description, and Author
+## Improve SEO by Setting Your Site's Title, Description, and Author
 
 By adding a `config.json` file in the root directory of your site, you can give your DataHub site a name that will be included on every page to improve your site's SEO.
 
