@@ -2,22 +2,22 @@
 
 You can now personalize your site by changing the navbar's logo, title and adding your own navigation links. You can also set your own site-wide SEO title and description.
 
-## Improve SEO by Setting Your Site's Title, Description, and Author
+## Improve SEO by Setting Your Site's Title, and Description
 
-By adding a `config.json` file in the root directory of your site, you can give your DataHub site a name that will be included on every page to improve your site's SEO.
+By adding a `config.json` file in the root directory of your site, you can optionally give your DataHub site a name that will be included on pages without a specific title. This can help improve your site's search engine optimization (SEO).
 
-Here's how you can add a title, description, and author for your site. You can make those changes by adding a `root_path/config.json` file:
+Here's how you can add a title and description for your site. You can make those changes by adding a `config.json` file in the root directory of your site:
 
 ```json
 {
   "title": "My Great DataHub Site",
   "description": "This is a custom DataHub site for our company's data",
-  "author": "The Data Team"
 }
 ```
 
-Now your website should have the title as the website title, and the author and description will only affect the site's SEO.
+Now your website should have the title as the website title.
 ![[Datahub-cloud-title-demo.png]]
+The description will only affect the site's SEO.
 
 ## Adding site logo
 
@@ -27,8 +27,6 @@ To add a logo, you can add a URL pointing to your logo in the `config.json` file
 {
   "title": "My Great DataHub Site",
   "description": "This is a custom DataHub site for our company's data",
-  "author": "The Data Team",
-
   "logo": "https://images.unsplash.com/photo-1611267254323-4db7b39c732c?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 }
 ```
