@@ -6,7 +6,7 @@ authors:
 ---
 ## Introduction
 
-In this tutorial, we're going to learn how we can publish a dataset with DataHub Cloud.
+In this tutorial, we're going to learn how to publish a dataset (multiple data files or a single data file) with DataHub Cloud.
 
 As an example we'll use this dataset with an analysis of the top 1000 global universities: https://www.kaggle.com/datasets/zahrayazdani81/univercitiesranking?resource=download
 
@@ -15,11 +15,14 @@ As an example we'll use this dataset with an analysis of the top 1000 global uni
 - GitHub account and basic knowledge of GitHub UI (especially editing and adding files)
 - A [DataHub Cloud](https://datahub.io/) account.
 
-## Step 1: Create a GitHub repository with the data files and `README` file
+## Step 1: Create a GitHub repository with the data files and `README.md` file
 
-Any DataHub Cloud site is built off of a GitHub repository. This is where you'd put all the dataset file(s) and any related markdown content that you want to publish. For the sake of simplicity, in this tutorial we're only going to add a root level `README.md` file. It's going to serve as a landing page for our site.
+Any DataHub Cloud site is built off of a GitHub repository. This is where you'd put all your dataset file(s) and any related markdown content that you want to publish. For the sake of simplicity, in this tutorial, we're only going to use a single `README.md` file. It's going to serve as a landing page for our site. We'll also learn how to include metadata about the dataset we're publishing in it.
 
-Note, we checked "Add a README file" checkbox on the screenshot below. This will make GitHub automatically add an empty `README.md` file to our repository.
+> [!tip]
+> Any `README.md` or `index.md` file, either in a root of the repository or in a subfolder, will be treated as a "landing" page (of the whole site or a given folder) by the DataHub Cloud.
+
+Go to your GitHub account and create a new repository. Note, you can check "Add a README file" checkbox. This will make GitHub automatically add an empty `README.md` file to our repository.
 
 ![[Pasted image 20240514091335.png]]
 
@@ -41,7 +44,7 @@ Let's also add some short introduction about our dataset to the `README.md` file
 ![[Pasted image 20240515003021.png]]
 ## Step 2: Create a DataHub Cloud site
 
-This is not yet all we need to do, but let's first publishing our repository with DataHub Cloud first to see how it works.
+We're not done yet, but let's first publishing our repository with DataHub Cloud first to see how it works.
 
 Go to your DataHub Cloud account and click on "Create New Site" button at the top of the screen. Then, select your newly created GitHub repository and submit the form. You should now be redirected to the settings page of your newly created DataHub Cloud site. Click on the "Visit" button to see how your site looks!
 
@@ -51,45 +54,28 @@ As you can see, there is no mention of your data file and it only shows our `REA
 
 ## Step 3: Describe your dataset with Frictionless data standard
 
-In DataHub Cloud, we can leverage Frictionless data standard to describe our datasets. 
+In DataHub Cloud, we can leverage Frictionless [data standard](https://specs.frictionlessdata.io/) to describe our datasets. 
 
-What is it and how does it fit in DataHub Cloud? In short, it's a standard format for describing and sharing datasets with others. DataHub Cloud understands it, and, by default, will render each `README.md` (or `index.md`) file that has a Frictionless spec either in
-- a `datapackage` frontmatter field,
-- or a corresponding (same directory level) `datapackage.{json/yaml/yml}` file
-with a special `dataset` layout, combining markdown content from the `README.md` file and metadata from the `datapackage` frontmatter field (or `datapackage.{json/yaml/yml}` file).
+What is it and how does it fit in DataHub Cloud? In short, it's a standard format for describing and sharing datasets with others. DataHub Cloud understands it, and, by default, will render any `README.md` (or `index.md`) file that has a [Frictionless Data Package spec](https://specs.frictionlessdata.io/data-package/) in a `datapackage` frontmatter field using a special `dataset` layout. This layout combines markdown content from the `README.md` file with metadata from the `datapackage` frontmatter field (or a separate `datapackage.{json,yaml,yml}` file) and displays them in an elegant format.
 
-Note, that currently only a subset of Frictionless datapackage fields is displayed by DataHub Cloud's `dataset` layout.
+> [!note]
+> You can also put your Data Package spec in a file named `datapackage.{json,yaml,yml}` next to your `README.md` (or `index.md`).
 
-Here are the supported ones:
+Note, that currently only a subset of Frictionless Data Package fields is displayed by DataHub Cloud's `dataset` layout. You can find the template Data Package with all the currently supported fields in [this template](https://github.com/datahubio/datahub-cloud-template/blob/main/README.md).
+
+In this tutorial we're only going to focus on the most important fields:
 - `title`
 - `description`
-- `created`: yyyy-mm-dd date
-- `updated`: yyyy-mm-dd date
-- `licences`:  The license(s) under which the package is provided. It is a list of objects with the following fields:
-	- `path`: external link or path to file
-	- `title`
-- `sources`: Original sources of the dataset, i.e. where does the data come from if it was borrowed from somewhere. It is a list of objects with the same set of fields ar licences.
 - `resources` (**required**): Describes all the data files included in the dataset. It is a list of objects with the following fields:
 	- `name`
 	- `description`
-	- `path`
-	- `lastModified`
-
-> [!note]
-> If you want to learn more about the Frictionless specification, go to https://specs.frictionlessdata.io. Note though, that not all of the fields mentioned in the specification will be displayed.
+	- `path` (path to file in your site's repository)
 
 Now, let's create a `datapackage` yaml spec for our universities dataset.
 
 ```yaml
 title: Top 1000 universities in the world
 description: In this project, the ranking of the top 1000 universities in the world has been reviewed and analyzed.
-updated: 2024-05-01
-licenses:
-  - title: Apache 2.0
-    path: https://www.apache.org/licenses/LICENSE-2.0
-sources:
-  - title: Kaggle dataset
-    path: https://www.kaggle.com/datasets/zahrayazdani81/univercitiesranking?resource=download
 resources:
   - name: Universities Ranking
     description: Top 1000 Global Universities Analysed
@@ -104,7 +90,7 @@ Now, let's create a `datapackage.yaml` file with the above datapackage spec. The
 
 This is how the resulting site looks like:
 
-![[Pasted image 20240515010227.png]]
+![[Pasted image 20240517224144.png]]
 ![[Pasted image 20240515010236.png]]
 ![[Pasted image 20240515010252.png]]
 
