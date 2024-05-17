@@ -1,4 +1,11 @@
 # Blog
+
+---
+
+**2024-05-17**
+
+[[publish-dataset-with-datahub-cloud|Learn how to publish a dataset with DataHub Cloud]]
+
 ---
 
 **2024-05-03**
