@@ -1,6 +1,5 @@
 ---
 title: "Data Literate Documents: an initial outline" 
-description: "This 
 date: 2021-05-17
 authors: ['Rufus Pollock']
 filetype: blog
