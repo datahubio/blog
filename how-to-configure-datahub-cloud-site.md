@@ -44,7 +44,7 @@ As you just saw, setting the `title` field in `config.json` already changes/sets
 }
 ```
 
-![[Pasted image 20240520154656.png]]
+![[Pasted image 20240520154639.png]]
 
 ## Changing Links in the Navbar
 
