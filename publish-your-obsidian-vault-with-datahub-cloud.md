@@ -1,4 +1,8 @@
-# How to Publish Your Obsidian Vault with DataHub Cloud
+---
+title: How to Publish Your Obsidian Vault with DataHub Cloud
+authors: [Ola Rubaj]
+date: 2024-07-10
+---
 
 Publishing your Obsidian vault with DataHub Cloud is an excellent way to make your notes accessible online, track changes over time, and collaborate with others. This guide will walk you through the process step-by-step, starting with getting your vault onto GitHub and then using DataHub Cloud to create a website for your notes, making it simple even for non-tech-savvy users.
 
