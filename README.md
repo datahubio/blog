@@ -2,6 +2,12 @@
 
 ---
 
+**2024-07-10**
+
+[[publish-your-obsidian-vault-with-datahub-cloud|Learn how to publish your Obsidian vault with DataHub Cloud]]
+
+---
+
 **2024-05-20**
 
 [[how-to-configure-datahub-cloud-site|Learn how to configure basic SEO fields and navigation bar in your DataHub Cloud sites]]
