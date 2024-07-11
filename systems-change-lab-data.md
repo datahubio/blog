@@ -1,7 +1,9 @@
 ---
 title: Systems Change Lab data
 image: https://github.com/datasets/awesome-data/assets/180658/c4e7b317-292f-40b5-8503-4ba1d62c2d85
-created: 2023-10-29
+authors:
+  - Rufus Pollock
+date: 2023-10-29
 tags:
   - is-it-opendata
 ---
