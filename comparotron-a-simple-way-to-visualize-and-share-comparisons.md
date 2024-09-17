@@ -13,8 +13,6 @@ The essence of the idea is simplicity and the power (and freedom) of constraints
 
 As pictures 📷 are worth a thousand words let's dive in with some mockups that give a sense of the idea.
 
-[[toc]]
-
 ## Comparotron Illustrated
 
 ### The first mockup of the idea (by David McCandless) in 2010
