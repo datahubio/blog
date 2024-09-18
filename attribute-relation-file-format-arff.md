@@ -21,7 +21,7 @@ The Header of the ARFF file contains the name of the relation, a list of the att
    %
    % 2. Sources:
    %      (a) Creator: R.A. Fisher
-   %      (b) Donor: Michael Marshall (MARSHALL%PLU@io.arc.nasa.gov)
+   %      (b) Donor: Michael Marshall (`MARSHALL%PLU@io.arc.nasa.gov`)
    %      (c) Date: July, 1988
    %
    @RELATION iris
