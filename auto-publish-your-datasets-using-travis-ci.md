@@ -31,7 +31,7 @@ branches:
 
 This instructs Travis-CI to install 'data' CLI tool via NPM and publish the dataset with 'public' option which makes it publicly available. It assumes that there is a `datapackage.json` file in the root directory of the repository.
 
-[data]: https://datahub.io/download
+[data]: https://github.com/datopian/data-cli
 [NPM]: https://www.npmjs.com/package/data-cli
 
 ## Credentials
