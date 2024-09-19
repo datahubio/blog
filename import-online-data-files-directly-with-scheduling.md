@@ -8,7 +8,7 @@ Users can now import online data files directly into the DataHub using the `data
 
 We're very excited about this feature as it is the first step in supporting automated scraping and doing this on a regular schedule. This is something we ourselves have long wanted for our [Core Data work][core data] and we're already using the feature ourselves.
 
-[core data]: https://datahub.io/core
+[core data]: https://datahub.io/docs/Core+Data
 
 ## An example
 
