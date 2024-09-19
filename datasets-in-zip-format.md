@@ -8,4 +8,4 @@ We are now generating compressed versions of datasets so users can download a da
 
 ![](data-files.png)
 
-[finance-vix]: /core/finance-vix
+[finance-vix]: https://datahub.io/core/finance-vix
