@@ -7,7 +7,7 @@ image: '/static/img/docs/app-cli-update.png'
 
 We are pleased to announce the launch of our new desktop application for DataHub users. The app brings drag and drop publishing of data. In addition, users can preview and validate their data prior to upload. Currently the app is in alpha and only available for MacOS -- but we plan Linux and Windows soon! Get the app now from:
 
-https://datahub.io/download
+https://github.com/datopian/data-desktop
 
 ## Drag and drop files
 
