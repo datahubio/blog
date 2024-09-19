@@ -6,9 +6,9 @@ authors: ['rufuspollock', 'mikanebu', 'anuveyatsu']
 
 The "Core Data" project provides essential data for the data wranglers and data science community. Its online home is on the DataHub:
 
-https://datahub.io/core
+https://datahub.io/docs
 
-https://datahub.io/docs/core-data
+https://datahub.io/docs/Core+Data
 
 This post introduces you to the Core Data, presents a couple of examples and shows you how you can access and use core data easily from your own tools and systems including R, Python, Pandas and more.
 
@@ -192,20 +192,14 @@ for resource in resources:
         print (data)
 ```
 
-### JavaScript and many more
-
-We also have support for JavaScript, SQL, and PHP. See our "Getting Data" tutorial for more:
-
-https://datahub.io/docs/getting-started/getting-data
-
 ## Conclusion
 
 This post has shown how you can import datasets in a high quality, standard form quickly and easily.
 
 There are many more datasets to explore than the three we showed you here. You can find a full list here:
 
-https://datahub.io/core
+https://datahub.io/docs/Core+Data
 
 Finally, we would love collaborators to help us curate even more core datasets. If you're interested you can find out more about the Core Data Curator program here:
 
-https://datahub.io/docs/core-data/curators
+https://datahub.io/docs/Core+Data/curators
