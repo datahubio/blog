@@ -16,7 +16,7 @@ Say, you are creating PhD thesis or a blog article. And you need to share some d
 
 Each dataset on the datahub.io has preview tables for tabular data. Now you can share or embed them:
 
-![](share-embed-tables.png)
+![](/assets/share-embed-tables.png)
 
 The **Share link** opens the table in the full-screen mode. Your colleague can easily find data and copy the entire table (or some part of it) to the clipboard and paste into the excel file, google sheets etc.
 
@@ -30,7 +30,7 @@ The **Embed snippet** allows you to integrate the table into your HTML document 
 
 The same idea works with graphs - each view for a dataset could be easily shared or embedded into your web-page using the links under the view:
 
-![](share-embed-graphs.png)
+![](/assets/share-embed-graphs.png)
 
 and here is the embedded version right here:
 
