@@ -12,8 +12,6 @@ https://datahub.io/docs/core-data
 
 This post introduces you to the Core Data, presents a couple of examples and shows you how you can access and use core data easily from your own tools and systems including R, Python, Pandas and more.
 
-## Table of Contents
-
 ## Why Core Data
 
 If you build data driven applications or data driven insight you regularly find yourself wanting common "core" data, things like lists of countries, populations, geographic boundaries and more.
