@@ -190,6 +190,11 @@ for resource in resources:
         print (data)
 ```
 
+### JavaScript and many more
+
+We also have support for JavaScript, SQL, and PHP. See our "Getting Data" tutorial for more:
+https://datahub.io/docs/getting-started/getting-data
+
 ## Conclusion
 
 This post has shown how you can import datasets in a high quality, standard form quickly and easily.
