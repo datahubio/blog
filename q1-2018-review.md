@@ -40,15 +40,15 @@ Issue trackers:
 ### `data` command line tool and associated JS libraries
 
 * Windows version of the CLI and improved release management.
-* Progress bar on push so publishers have better UX while their files are being uploaded: ![](upload-progress-bar.png)
+* Progress bar on push so publishers have better UX while their files are being uploaded: ![](/assets/upload-progress-bar.png)
 * Parsing and ingest:
   * support for various CSV delimiters such as semicolons, colons, pipes, tabs etc.
   * support for various encodings
 * Skipping uploading files if already uploaded which dramatically improves push performance on repeated deployments.
-* `validate` command improvements: users now see process details, e.g., which file is being validated - useful when your data package has lots of files: ![](validate-details.png)
-* `info` command improvements: support for non-tabular files and improved information about datasets: ![](info-output.png)
+* `validate` command improvements: users now see process details, e.g., which file is being validated - useful when your data package has lots of files: ![](/assets/validate-details.png)
+* `info` command improvements: support for non-tabular files and improved information about datasets: ![](/assets/info-output.png)
 * `get` command works with files from GitHub and DataHub + getting datasets from Datahub now downloads zip version and unzips it for you.
-* `cat` command works with streamed data, e.g., from `stdin`: ![](cat-streamed-data.png)
+* `cat` command works with streamed data, e.g., from `stdin`: ![](/assets/cat-streamed-data.png)
 * Error handling and messaging improvements throughout the CLI app.
 
 ### Frontend
