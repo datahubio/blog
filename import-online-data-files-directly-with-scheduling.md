@@ -24,7 +24,7 @@ If you wish to make your dataset "published", you need to pass the `--published`
 
 Once the process is completed open your browser and check it out! It would generate a URL using your username, which will be copied to clipboard so you can just open a browser and paste it. You should see something similar to this page:
 
-![](scheduled-data.png)
+![](/assets/scheduled-data.png)
 
 Note: We've decided to still use the push command, even though unlike local data you are not "pushing" it but rather importing it. [Read more about the `push` command in our getting started guide][getting-started].
 
