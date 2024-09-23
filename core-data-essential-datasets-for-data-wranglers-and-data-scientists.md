@@ -40,11 +40,11 @@ https://datahub.io/core/country-list
 
 You can see a preview table for the dataset on the showcase page:
 
-![](https://github.com/datahubio/blog/blob/main/assets/country-list-preview-table.png)
+![](/assets/country-list-preview-table.png)
 
 You can download it in either CSV or JSON formats:
 
-![](https://github.com/datahubio/blog/blob/main/assets/country-list-downloads.png)
+![](/assets/country-list-downloads.png)
 
 * CSV: https://datahub.io/core/country-list/r/data.csv
 * JSON: https://datahub.io/core/country-list/r/data.json
@@ -74,7 +74,7 @@ https://datahub.io/core/population
 
 Preview the data on the showcase page:
 
-![](https://github.com/datahubio/blog/blob/main/assets/population-preview-table.png)
+![](/assets/population-preview-table.png)
 
 Get the data in CSV or JSON formats just like for any other Core Datasets:
 
