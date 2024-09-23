@@ -8,7 +8,7 @@ The "Core Data" project provides essential data for the data wranglers and data 
 
 https://datahub.io/docs
 
-https://datahub.io/docs/Core+Data
+https://datahub.io/docs/core-data
 
 This post introduces you to the Core Data, presents a couple of examples and shows you how you can access and use core data easily from your own tools and systems including R, Python, Pandas and more.
 
