@@ -36,13 +36,13 @@ This report is then used in your dataset page to show you a human-readable versi
 
 Results of the report will be displayed in an easy to understand form. Specifically, if there are errors you will see a detailed report like this:
 
-![](validation-report-vix-daily.png)
+![](/assets/validation-report-vix-daily.png)
 
 This table displays errors in a validation report. You can see that in the example above we have 3 badges indicating key details (`INVALID` `SCHEMA` `985`) and `Type or Format Error` message. It means 985 values have type or format errors when validating against the schema. Details can be expanded by clicking on "Error details" link on the right. You also can find values causing this error on the table - they have a red background colour. By default, we show first 10 rows but you can open more of them by clicking on "Show next 10 rows" link.
 
 In the screenshot below, you can see how a validation report looks like for "Minimum Constraint" error. Revenue value cannot be negative so we've set `constraints` property with a `minimum` attribute as 0 and validation process identified which value is not meeting that requirement:
 
-![](validation-report-revenue.png)
+![](/assets/validation-report-revenue.png)
 
 Below are properties that you can use in a table schema for validation of your data:
 
