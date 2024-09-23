@@ -10,7 +10,7 @@ This tutorial will help you get started with the Datahub pages, and how you can 
 
 Data pages you will create can be deployed with static site hosting providers like Github pages. Cloudfare pages, Netlify, or Vercel. 
 
-Here's an [example of a hosted Datahub page](https://datahub.io/docs/DataHub+Cloud/Create+a+dataset+from+scratch+and+publish+it+with+Datahub+Cloud) showing how data, text and simple charts can be displayed. 
+Here's an [example of a hosted Datahub page](/data-literate-demo) showing how data, text and simple charts can be displayed. 
 
 In this tutorial, we aim to keep things simple, so we'll show you how you can turn a CSV and a ReadMe into a Datahub page. 
 
@@ -84,4 +84,4 @@ We are working towards adding new and better features to Datahub pages. You can 
 ## Resources
 
 * [Portal.js](https://github.com/datopian/portal.js#component-list) provides custom components you can use in your data pages
-* [Demo page](https://datahub.io/@Daniellappv/datahub-cloud-template-dataset) a live Datahub page deployed on Cloudfare
+* [Demo page](/demo) a live Datahub page deployed on Cloudfare
