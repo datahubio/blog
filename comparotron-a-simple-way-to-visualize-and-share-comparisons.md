@@ -25,9 +25,9 @@ The first mockup of the idea (by David McCandless) done for the [Where Does My M
 
 This is all real data by the way!
 
-![](comparotron-v0.2-march-2020-coronavirus-vs-flu.svg)
+![](https://raw.githubusercontent.com/datahubio/blog/refs/heads/main/assets/comparotron-v0.2-march-2020-coronavirus-vs-flu.svg)
 
-![](comparotron-v0.2-march-2020-military-vs-aid.svg)
+![](https://raw.githubusercontent.com/datahubio/blog/refs/heads/main/assets/comparotron-v0.2-march-2020-military-vs-aid.svg)
 
  ## History
 
