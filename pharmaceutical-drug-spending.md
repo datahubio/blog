@@ -11,20 +11,20 @@ There are several graphs that illustrate pharmaceutical drug spendings from the 
 
 This chart illustrates total spending by country in 2015:
 
-![](pharma-dataset1.png)
+![](/assets/pharma-dataset1.png)
 
 For comparison, you can take a look at spendings per capita in the same year: 
 
-![](pharma-dataset2.png)
+![](/assets/pharma-dataset2.png)
 
 As you can see Americans spend the most on drugs compared to the rest of the world, and below you can see a chart that breaks down total spendings in the United States since 2000 and it is growing gradually:
 
-![](pharma-dataset3.png)
+![](/assets/pharma-dataset3.png)
 
 
 The table below describes Pharmaceutical Drug Spending dataset by countries with indicators such as a share of total health spending, in USD per capita (using economy-wide Purchasing Power Parity or PPP), as a share of GDP and total spending since 1970.
 
-![](pharma-dataset4.png)
+![](/assets/pharma-dataset4.png)
 
 
 
