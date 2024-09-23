@@ -198,8 +198,8 @@ This post has shown how you can import datasets in a high quality, standard form
 
 There are many more datasets to explore than the three we showed you here. You can find a full list here:
 
-https://datahub.io/docs/Core+Data
+https://datahub.io/docs/core-data
 
 Finally, we would love collaborators to help us curate even more core datasets. If you're interested you can find out more about the Core Data Curator program here:
 
-https://datahub.io/docs/Core+Data/curators
+https://datahub.io/docs/core-data/curators
