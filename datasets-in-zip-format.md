@@ -6,6 +6,6 @@ authors: ['anuveyatsu']
 
 We are now generating compressed versions of datasets so users can download a dataset as a single file. You can find it in the “Data Files” table in the showcase page. For example, you can have a look at [finance-vix dataset][finance-vix]:
 
-![](data-files.png)
+![](/assets/data-files.png)
 
 [finance-vix]: https://datahub.io/core/finance-vix
