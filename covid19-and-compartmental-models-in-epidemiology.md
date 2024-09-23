@@ -7,7 +7,7 @@ tags: ['COVID-19', 'epidemiology', 'models', 'curve-fitting', 'epidemic']
 
 The severity of the current SARS-CoV-2 epidemic is undeniable: since the latest months of 2019, the COVID-19 outbreak is having a significant impact in the world at the macro level, starting its spread from China, then to the Asia-Pacific and then around the rest of the globe.
 
-![Man sleeping on a bus during the COVID-19 outbreak in London](edward-howell-IDhks1n8GYM-unsplash.jpg)
+![Man sleeping on a bus during the COVID-19 outbreak in London](/assets/edward-howell-IDhks1n8GYM-unsplash.jpg)
 
 _Photo by Edward Howell on Unsplash_
 
@@ -35,7 +35,7 @@ In the SIR model, one can study the number of people in each of three compartmen
 
 Another model, which has been proven to be much more realistic for some epidemics spreading models is the [SEIR model](https://www.medrxiv.org/content/10.1101/2020.03.20.20040048v1). The main idea of this model is that for many important infections, there is a significant incubation period during which individuals have been infected but are not yet infectious themselves. During this period, the individual is in a special state E (exposed), an additional state to three states in the SIR model.
 
-![sirmodel-beta-mu-parameters](sirmodel_beta_mu_parameters.png)
+![sirmodel-beta-mu-parameters](/assets/sirmodel_beta_mu_parameters.png)
 
 Some models described here are also explained [on this page](https://github.com/datasets/awesome-data/blob/master/coronavirus.md).
 
