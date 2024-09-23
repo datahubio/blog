@@ -94,6 +94,6 @@ By opening the link, you would see the following page:
 
 We have converted all sheets of the file to CSV so now you can download each of them in CSV or JSON formats:
 
-![](showcase-downloads-excel-2.png)
+![](/assets/showcase-downloads-excel-2.png)
 
 You also can find preview tables for each sheet by scrolling down the page.
