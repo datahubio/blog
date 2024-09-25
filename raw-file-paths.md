@@ -1,10 +1,10 @@
 ---
-title: Announcing a New Endpoint for Fetching Raw Data Files in DataHub Cloud Sites
+title: New Endpoint for Fetching Raw Data Files from DataHub Cloud Datasets
 date: 2024-09-25
 authors: [Ola Rubaj]
 ---
 
-We’re excited to introduce a new endpoint that allows you to fetch raw data files from any DataHub Cloud site. Here’s an overview of the changes.
+We’re excited to introduce a new endpoint that allows you to fetch raw data files from DataHub Cloud datasets (and any other DataHub Cloud sites). Here’s an overview of the changes.
 
 ## Why the Update?
 
@@ -16,13 +16,13 @@ In the previous datahub.io platform version, we had the `/r/{resource}.{csv/json
 
 This functionality has been dropped during our migration to the new version of datahub.io. Now, we’re bringing it back, though in a slightly different form.
 
-We’re introducing a new, stable endpoint for raw files: `/_r/-/{path-to-file}`. This endpoint allows you to fetch any file by providing its exact path.
+We’re introducing a new, stable endpoint for raw files: `/_r/-/{path-to-file}`. This endpoint allows you to fetch any file - specifically and most importantly a dataset's data file - by providing its exact path.
 
 ## Example Usage
 
 Let’s say you regularly use the [Country Codes](https://datahub.io/core/country-codes) dataset and want to integrate it into your code to automatically fetch the latest version of the data. You can obtain the link to the data file from the “Data Files” section by right-clicking on the link in the “Download” column. It's a permalink to that data file, meaning you can use it with confidence without worrying about it being changed unexpectedly.
 
-## What About the Old JSON and HTML Formats?
+## What About the old JSON and HTML formats?
 
 In the past, we generated HTML previews of datapackage resource files (e.g. `/r/resource-abc.html`), allowing users to view the data in a table format. This feature is currently not supported, but we are considering bringing it back in the future.
 
