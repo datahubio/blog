@@ -2,7 +2,7 @@
 
 ---
 
-**2024-07-10**
+**2024-09-25**
 
 [[raw-file-paths|Introducing a new endpoint for fetching raw data files from DataHub Cloud datasets (and more)]]
 
