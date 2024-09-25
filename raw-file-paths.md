@@ -20,7 +20,7 @@ We’re introducing a new, stable endpoint for raw files: `/_r/-/{path-to-file}`
 
 ## Example Usage
 
-Let’s say you regularly use the Country Codes dataset and want to integrate it into your code to automatically fetch the latest version of the data. You can obtain the link to the data file from the “Data Files” section by right-clicking on the link in the “Download” column.
+Let’s say you regularly use the [Country Codes](https://datahub.io/core/country-codes) dataset and want to integrate it into your code to automatically fetch the latest version of the data. You can obtain the link to the data file from the “Data Files” section by right-clicking on the link in the “Download” column. It's a permalink to that data file, meaning you can use it with confidence without worrying about it being changed unexpectedly.
 
 ## What About the Old JSON and HTML Formats?
 
