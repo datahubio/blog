@@ -2,6 +2,12 @@
 
 ---
 
+**2024-09-27**
+
+[[what-is-next-enhancing-dataset-discovery-and-providing-core-data-for-the-world|What is next: Enhancing Dataset Discovery and Providing Core Data for the World]]
+
+---
+
 **2024-09-25**
 
 [[raw-file-paths|Introducing a new endpoint for fetching raw data files from DataHub Cloud datasets]]
