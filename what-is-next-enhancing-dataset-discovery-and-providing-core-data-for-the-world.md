@@ -12,7 +12,7 @@ To realize this vision, we are dedicating the next few months to several key imp
 
 ### Enhanced Dataset Showcase Pages
 
-We’re transforming dataset pages into rich, informative showcases. Our goal is for users to quickly grasp the dataset’s metadata, preview the data, and understand the schema in detail. We’ll offer comprehensive insights into the structure and contents of each dataset, empowering users to make informed decisions.
+We’re transforming dataset pages into rich, informative showcases. Our goal is for users to quickly grasp a dataset’s metadata, preview its data, and understand its schema in detail. We’ll provide comprehensive insights into the structure and contents of each dataset, empowering users to make informed decisions.
 
 ### Keeping Core Datasets Up-to-Date
 
