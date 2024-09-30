@@ -4,7 +4,7 @@ date: 2024-09-27
 authors: [Anuar Ustayev]
 ---
 
-In the world of data, accessibility and quality are crucial. As we move into the next phase of DataHub.io, our goal is to make it the go-to place for finding core and popular datasets. Alongside that, we're building a seamless experience for data publishers to upload and showcase their datasets. Over time, we envision this evolving into a vibrant data marketplace.
+In the world of data, accessibility and quality are crucial. As we move into the next phase of DataHub.io, our goal is to make it the go-to place for finding essential and popular datasets. Alongside that, we're building a seamless experience for data publishers to upload and showcase their datasets. Over time, we envision this evolving into a vibrant data marketplace.
 
 ## Our Focus for the Next 3-6 Months
 
