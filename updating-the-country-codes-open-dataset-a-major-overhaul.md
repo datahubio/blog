@@ -12,7 +12,7 @@ The `country-codes` dataset is an essential resource for many data enthusiasts a
 
 ## **Key Updates and Improvements**
 
-### **1. Codebase Structure Fix**
+### **1. Codebase Restructuring**
 
 The first task was to address the structure of the codebase. We reviewed the entire folder structure, re-organizing scripts and files to make it more maintainable and future-proof. This involved cleaning up unnecessary files and making sure the essential scripts are well-structured and documented.
 
