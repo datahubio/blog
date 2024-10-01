@@ -4,7 +4,7 @@ date: 2024-10-01
 authors: ["Anuar Ustayev"]
 ---
 
-We are excited to share the latest updates on our open dataset, `country-codes`. Over time, this dataset had become outdated, and the underlying codebase required a significant overhaul. To ensure it remains reliable and up-to-date, we embarked on a comprehensive update, fixing the structure and implementing new processes for regular maintenance.
+We are excited to share the latest updates on our open dataset, `country-codes`. Over time, this dataset had become outdated, and the underlying codebase required a significant overhaul. To ensure it remains reliable and up-to-date, we embarked on a comprehensive update, restructuring the codebase and implementing new processes for regular maintenance.
 
 ## **Why the Update?**
 
