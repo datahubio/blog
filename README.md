@@ -2,6 +2,12 @@
 
 ---
 
+**2024-10-01**
+
+[[updating-the-country-codes-open-dataset-a-major-overhaul|Updating the Country Codes Open Dataset: A Major Overhaul]]
+
+---
+
 **2024-09-27**
 
 [[what-is-next-enhancing-dataset-discovery-and-providing-core-data-for-the-world|What is next: Enhancing Dataset Discovery and Providing Core Data for the World]]
