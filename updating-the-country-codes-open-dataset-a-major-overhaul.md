@@ -40,7 +40,7 @@ The `requirements.txt` file was updated to ensure compatibility with the latest 
 
 Finally, we took the time to address the most recent issues reported by users. Outdated or irrelevant issues were closed, allowing us to focus on meaningful improvements. This cleanup not only helps keep our issue tracker relevant but also provides a clearer picture of what work is left to be done.
 
-## **What’s Next?**
+## **Summary**
 
 With these updates, the `country-codes` dataset is now in a much healthier state. Moving forward, our new monthly automated checks using GitHub Actions will help keep this dataset fresh and reliable. We're always open to feedback and contributions from the community, so feel free to reach out with suggestions or improvements!
 
