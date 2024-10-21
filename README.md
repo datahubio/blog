@@ -2,6 +2,12 @@
 
 ---
 
+**2024-10-21**
+
+[[country-list-dataset-update-datahub-npm-release|Country List Dataset: Latest Update, Easy Access on DataHub.io, and Upcoming NPM Release]]
+
+---
+
 **2024-10-01**
 
 [[updating-the-country-codes-open-dataset-a-major-overhaul|Updating the Country Codes Open Dataset: A Major Overhaul]]
