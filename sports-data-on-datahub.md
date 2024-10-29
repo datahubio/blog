@@ -16,9 +16,9 @@ There will be more data in the future so don't forget to bookmark the link :smil
 
 Below is the list of datasets that are published and available for you to use:
 
-* [ATP World Tour tennis data](/sports-data/atp-world-tour-tennis-data)
-* [English Premier League (football)](/sports-data/english-premier-league)
-* [Spanish La Liga (football)](/sports-data/spanish-la-liga)
-* [Italian Serie A (football)](/sports-data/italian-serie-a)
-* [German Bundesliga (football)](/sports-data/german-bundesliga)
-* [French Ligue 1 (football)](/sports-data/french-ligue-1)
+* [ATP World Tour tennis data](https://datahub.io/sports-data/atp-world-tour-tennis-data)
+* [English Premier League (football)](https://datahub.io/sports-data/english-premier-league)
+* [Spanish La Liga (football)](https://datahub.io/sports-data/spanish-la-liga)
+* [Italian Serie A (football)](https://datahub.io/sports-data/italian-serie-a)
+* [German Bundesliga (football)](https://datahub.io/sports-data/german-bundesliga)
+* [French Ligue 1 (football)](https://datahub.io/sports-data/french-ligue-1)
