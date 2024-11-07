@@ -2,6 +2,12 @@
 
 ---
 
+**2024-11-07**
+
+[[empowering-logistics-with-global-postal-code-data|Empowering Logistics with a Global Postal Code Data Solution]]
+
+---
+
 **2024-10-21**
 
 [[country-list-dataset-update-datahub-npm-release|Country List Dataset: Latest Update, Easy Access on DataHub.io, and Upcoming NPM Release]]
