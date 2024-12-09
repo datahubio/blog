@@ -1,6 +1,6 @@
 --- 
 title: "Kicking Off: Enhancing Football Datasets on Datahub.io"
-description: Discover the latest updates to Datahub.io's football datasets repository, including improved data processing workflows, expanded datasets, and automated updates. Learn how these changes make accessing and analyzing football data easier than ever.
+description: "Discover the latest updates to Datahub.io's football datasets repository, including improved data processing workflows, expanded datasets, and automated updates. Learn how these changes make accessing and analyzing football data easier than ever."
 date: 2024-12-09
 authors: ["Anuar Ustayev"]
 ---
