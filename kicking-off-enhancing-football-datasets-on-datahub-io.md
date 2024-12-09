@@ -43,8 +43,6 @@ The repository’s `README.md` file was revamped to address user feedback and of
 
 We converted `datapackage.json` files to YAML format, improving readability and simplifying data package management for users.
 
----
-
 These updates reflect our ongoing commitment to providing high-quality, accessible football datasets. We invite you to explore the repository and contribute to this open-data initiative.
 
 *Check out the repository [here](https://github.com/datasets/football-datasets).*
