@@ -2,6 +2,14 @@
 
 ---
 
+December 9, 2024
+
+[[kicking-off-enhancing-football-datasets-on-datahub-io|Kicking Off: Enhancing Football Datasets on Datahub.io]]
+
+Discover the latest updates to Datahub.io's football datasets repository, including improved data processing workflows, expanded datasets, and automated updates.
+
+---
+
 **2024-11-07**
 
 [[empowering-logistics-with-global-postal-code-data|Empowering Logistics with a Global Postal Code Data Solution]]
