@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+December 12, 2024
+
+[[celebrating-100-stars-on-github-r2-bucket-uploader-simplifying-cloudflare-r2-file-uploads|Celebrating 100 Stars on GitHub: R2 Bucket Uploader - Simplifying Cloudflare R2 File Uploads]]
+
+We're excited to announce that our open-source library, R2 Bucket Uploader, has just reached 100 stars on GitHub! 🎉 This milestone is a testament to the value it provides to the community, and we wanted to take a moment to highlight its key features and how it simplifies integrating with Cloudflare R2 storage.
+
+---
+
 December 9, 2024
 
 [[kicking-off-enhancing-football-datasets-on-datahub-io|Kicking Off: Enhancing Football Datasets on Datahub.io]]
