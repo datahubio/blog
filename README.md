@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+December 13, 2024
+
+[[optimizing-clinical-trials-us-repository-data-storage-and-git-lfs-solutions|Optimizing the Clinical Trials (US) Repository: Data Storage and Git LFS Solutions]]
+
+The [clinical-trials-us](https://github.com/datasets/clinical-trials-us) repository provides a critical resource, offering official U.S. clinical trial outcomes from the FDA. This data is vital for researchers, medical professionals, and policymakers. However, as the repository continues to grow, a key issue has surfaced regarding the best way to manage large datasets—specifically, the 2.3 GB of XML files sourced from ClinicalTrials.gov.
+
+---
+
 December 12, 2024
 
 [[celebrating-100-stars-on-github-r2-bucket-uploader-simplifying-cloudflare-r2-file-uploads|Celebrating 100 Stars on GitHub: R2 Bucket Uploader - Simplifying Cloudflare R2 File Uploads]]
