@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+December 23, 2024
+
+[[discover-commodities-collection-metals-energy-agriculture|Discover the Commodities Collection: Metals, Energy, Agriculture & More]]
+
+Explore the new Commodities Collection on DataHub.io, featuring datasets on precious metals, energy resources, agricultural products, and livestock. Perfect for traders, researchers, and enthusiasts seeking market insights and trends.
+
+---
+
 December 13, 2024
 
 [[optimizing-clinical-trials-us-repository-data-storage-and-git-lfs-solutions|Optimizing the Clinical Trials (US) Repository: Data Storage and Git LFS Solutions]]
