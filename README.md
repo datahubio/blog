@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+December 30, 2024
+
+[[data-solutions-launch|Introducing DataHub.io’s New Global Data Solutions]]
+
+Discover how DataHub.io’s latest releases—Global Geo Data and the Worldwide Postal Code Database—empower organizations to innovate faster and more efficiently.
+
+---
+
 December 24, 2024
 
 [[technical-deep-dive-our-global-postal-code-dataset-and-roadmap|Technical Deep Dive: Our Global Postal Code Dataset & Roadmap]]
