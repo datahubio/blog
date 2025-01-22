@@ -1,7 +1,7 @@
 ---
 title: "Pharmaceutical Spending Trends: 50 Years of Insights from 50 Nations"
 description: "OECD Data Insights for Smarter Decisions, Investments, and Policy Innovations."
-date: 2025-01-21
+date: 2025-01-22
 authors: [Nina Komadina]
 ---
 
