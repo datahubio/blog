@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+January 21, 2025
+
+[[pharmaceutical-spending-trends-50-years-of-insights-from-50-nations|Pharmaceutical Spending Trends: 50 Years of Insights from 50 Nations]]
+
+OECD Data Insights for Smarter Decisions, Investments, and Policy Innovations.
+
+---
+
 December 30, 2024
 
 [[data-solutions-launch|Introducing DataHub.io’s New Global Data Solutions]]
