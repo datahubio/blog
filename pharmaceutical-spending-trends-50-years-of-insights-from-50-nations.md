@@ -83,8 +83,7 @@ Highly versatile, the [Pharmaceutical Drug spending dataset](https://datahub.io/
 
 ## 4. A ready-to-use scheme
 
-| NAME | [Pharmaceutical Drug Spending by Countr](https://datahub.io/core/pharmaceutical-drug-spending)y |
-| :---- | :---- |
+| NAME | [Pharmaceutical Drug Spending by Country](https://datahub.io/core/pharmaceutical-drug-spending) |
 | FORMAT | JSON, CSV |
 | ROWS  | 1788 |
 | COLUMNS | 7 |
