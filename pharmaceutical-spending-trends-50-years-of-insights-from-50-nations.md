@@ -83,16 +83,18 @@ Highly versatile, the [Pharmaceutical Drug spending dataset](https://datahub.io/
 
 ## 4. A ready-to-use scheme
 
-| NAME | [Pharmaceutical Drug Spending by Country](https://datahub.io/core/pharmaceutical-drug-spending) |
-| FORMAT | JSON, CSV |
-| ROWS  | 1788 |
-| COLUMNS | 7 |
-| TYPES OF VARIABLES | string, year, number |
-| STATES  | 50 |
-| YEARS | 1970-2022 |
-| TYPE OF SPENDINGS | Percentage of health spending Percentage of GDP spending Spending per capita Total spending |
-| SOURCE | OECD, DataHub |
-| LICENSE | Public Domain Dedication and License ([PDDL](https://opendatacommons.org/licenses/pddl/)) |
+| Field                | Description                                                                                           |
+|----------------------|-------------------------------------------------------------------------------------------------------|
+| NAME                 | [Pharmaceutical Drug Spending by Country](https://datahub.io/core/pharmaceutical-drug-spending)      |
+| FORMAT               | JSON, CSV                                                                                           |
+| ROWS                 | 1788                                                                                                 |
+| COLUMNS              | 7                                                                                                    |
+| TYPES OF VARIABLES   | string, year, number                                                                                 |
+| STATES               | 50                                                                                                   |
+| YEARS                | 1970-2022                                                                                           |
+| TYPE OF SPENDINGS    | Percentage of health spending, Percentage of GDP spending, Spending per capita, Total spending       |
+| SOURCE               | OECD, DataHub                                                                                       |
+| LICENSE              | Public Domain Dedication and License ([PDDL](https://opendatacommons.org/licenses/pddl/))           |
 
 **Need a more specific insight regarding costs associated with genetic research?**
 
