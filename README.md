@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+January 23, 2025
+
+[[football-data-unleashed-your-next-level-toolkit|Football Data Unleashed: Your Next-Level Toolkit]]
+
+From Betting to Team Management, See How Open Data is Changing the Football Landscape.
+
+---
+
 January 22, 2025
 
 [[pharmaceutical-spending-trends-50-years-of-insights-from-50-nations|Pharmaceutical Spending Trends: 50 Years of Insights from 50 Nations]]
