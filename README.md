@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+January 24, 2025
+
+[[advanced-statistics-english-premier-league-analysis|Advanced statistics for English Premier League analysis]]
+
+Over three decades of free datasets for journalists, investors, and managers in the football industry.
+
+---
+
 January 23, 2025
 
 [[football-data-our-open-source-collection-of-worldwide-statistics|Football Data: our open-source collection of worldwide statistics]]
