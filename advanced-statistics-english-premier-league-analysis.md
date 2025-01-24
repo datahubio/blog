@@ -19,7 +19,7 @@ Our dataset characteristics make it the **perfect toolkit** for a wide range of 
 
 In contemporary football, familiarity with the **matches’ statistics** transforms amateurs into professionals.
 
-Before our [English Premier League dataset](https://datahub.io/core/english-premier-league%20), investigating the figures from the home of football was laborious and often stressful. DataHub's repository now offers overarching data **from ‘93-’94 up to the current season**, for a total of 32 files.
+Before our [English Premier League dataset](https://datahub.io/core/english-premier-league), investigating the figures from the home of football was laborious and often stressful. DataHub's repository now offers overarching data **from ‘93-’94 up to the current season**, for a total of 32 files.
 
 ![](/assets/v02-drogba-de-jong-premier-league-football-match.svg)
 
@@ -40,7 +40,7 @@ Last but not least, data visualization can be complex when dealing with large am
 
 ## 2\. Highlights \- The dataset features
 
-The [English Premier League](https://datahub.io/core/english-premier-league%20) dataset is part of a DataHub project that collected and structured comprehensive data on the **five major European football** leagues.
+The [English Premier League](https://datahub.io/core/english-premier-league) dataset is part of a DataHub project that collected and structured comprehensive data on the **five major European football** leagues.
 
 As data professionals and football fans, we are proud to have created detailed datasets that fill many of the gaps in existing open-source information. Our prime aim is to provide professionals with **detailed**, **consistent**, and **highly usable** datasets, allowing them to have a backbone for their **management decisions**.
 
@@ -50,13 +50,13 @@ That’s why, in each of our datasets on the **five major European football leag
 
 * **Labeling consistency**, allowing for agile cross-season comparison from 1993 up to the present day;
 * **Progression**, with growing available information for each season reflecting football’s evolution in thirty years;
-* **Synchrony**, granting daily updates to our dataset for the current season through [Travis-CI](https://www.travis-ci.com/).
+* **Synchrony**, granting daily updates to our dataset for the current season through automated data pipelines.
 
-These features altogether make the [English Premier League](https://datahub.io/core/english-premier-league%20) dataset a great fit for both researching **previous seasons** and following **current developments**. In other words, our users are never left behind.
+These features altogether make the [English Premier League](https://datahub.io/core/english-premier-league) dataset a great fit for both researching **previous seasons** and following **current developments**. In other words, our users are never left behind.
 
 ## 3\. How to exploit the Premier League dataset
 
-Although the high usability of the [English Premier League](https://datahub.io/core/english-premier-league%20) dataset makes it accessible to fans and amateurs, it is no secret that DataHub.io engineers crafted this open-source repository with **professionals** in mind.
+Although the high usability of the [English Premier League](https://datahub.io/core/english-premier-league) dataset makes it accessible to fans and amateurs, it is no secret that DataHub.io engineers crafted this open-source repository with **professionals** in mind.
 
 We think indeed that its **depth and consistency** make it highly suitable for many football-related businesses.
 
@@ -92,7 +92,7 @@ We think indeed that its **depth and consistency** make it highly suitable for m
   * Individuation of profitable commercial partners
   * Back decisions on odds wagers
 
-Put simply, the dataset on the [English Premier League](https://datahub.io/core/english-premier-league%20) might be the best example of profitable football data.
+Put simply, the dataset on the [English Premier League](https://datahub.io/core/english-premier-league) might be the best example of profitable football data.
 
 ## 4\. RECAP TABLE
 
