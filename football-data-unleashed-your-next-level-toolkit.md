@@ -108,4 +108,4 @@ Thanks to its extent, our Football datasets are a great fit for a broad number o
 | MAIN THEMES | Major European Leagues  Betting and prediction  National teams FIFA World Cup Bolão Cup Stadiums and players |
 | ACCESS | Completely free |
 
-**Be part of the football data revolution and start diving into our [Football Data collection](https://datahub.io/collections/football)\!**
+🔎 Be part of the football data revolution **→** start diving into our **[Football Data collection](https://datahub.io/collections/football)\!**
