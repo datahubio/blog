@@ -69,32 +69,27 @@ The short answer is: **anybody** interested in sports.
 More specifically, accessible and fully free data on matches, leagues and events is nowadays necessary to drive any **football-related business**.
 
 * **Betting industry**: extensive data regarding football worldwide inform bookmakers on the most profitable events, informing investment decisions and business development.
-
-* Refining betting odds
-* Explore new markets
-* Compare winning information cross-country
+  * Refining betting odds
+  * Explore new markets
+  * Compare winning information cross-country
 
 * **Advertisement**: the [football collection](https://datahub.io/collections/football) allows to spot consistency trends, backing decisions regarding long-term partnerships with players, teams, and leagues.
-
-* Plan marketing campaigns
-* Anticipate public engagement
-* Balance short and long-term collaborations
-* Build the hype for upcoming events
+  * Plan marketing campaigns
+  * Anticipate public engagement
+  * Balance short and long-term collaborations
+  * Build the hype for upcoming events
 
 * **Information system**: journalists and content creators can leverage in-depth data to enhance content quality and relevance.
-
-* Track league performance and trends
-* Spotlight standout players and teams
-* Make content sensational with statistics from previous events
+  * Track league performance and trends
+  * Spotlight standout players and teams
+  * Make content sensational with statistics from previous events
 
 ![](/assets/v04-coach-stats-tactics-football.svg)
 
 * **Team management**: the [Football collection](https://datahub.io/collections/football) empowers coaches and technical staff with reliable pillars to find their teams' future.
-
   * Refine training programs
   * Develop data-driven match strategies
   * Spot possible new players from minor leagues
-
 
 Thanks to its extent, our Football datasets are a great fit for a broad number of professionals, allowing not only for **past trends analysis** but also for **data-based previsions**. The variety of available information, moreover, facilitates the **data-gathering process** of those who are interested in minor leagues, specific events, and even [Bolao](https://www.bolao-sports.com/) competitions.
 
@@ -107,4 +102,4 @@ Thanks to its extent, our Football datasets are a great fit for a broad number o
 | MAIN THEMES | Major European Leagues  Betting and prediction  National teams FIFA World Cup Bolão Cup Stadiums and players |
 | ACCESS | Completely free |
 
-🔎Start building real knowledge on statistics **→** start diving into our **[Football Data collection](https://datahub.io/collections/football)\!**
+🔎 Start building real knowledge on statistics **→** start diving into our **[Football Data collection](https://datahub.io/collections/football)\!**
