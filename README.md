@@ -6,9 +6,9 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 January 23, 2025
 
-[[football-data-unleashed-your-next-level-toolkit|Football Data Unleashed: Your Next-Level Toolkit]]
+[[football-data-our-open-source-collection-of-worldwide-statistics|Football Data: our open-source collection of worldwide statistics]]
 
-From Betting to Team Management, See How Open Data is Changing the Football Landscape.
+25 GitHub projects and 5 DataHub datasets to analyze players, stadiums, and competitions.
 
 ---
 

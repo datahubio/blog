@@ -1,17 +1,17 @@
 ---
-title: "Football Data Unleashed: Your Next-Level Toolkit"
-description: From Betting to Team Management, See How Open Data is Changing the Football Landscape.
+title: "Football Data: our open-source collection of worldwide statistics"
+description: 25 GitHub projects and 5 DataHub datasets to analyze players, stadiums, and competitions.
 date: 2025-01-23
 authors: [Nina Komadina]
 ---
 
 ![](/assets/v01-player-dribbling-statistics-goal.svg)
 
-**Football** isn’t just a game; it’s a global phenomenon, an economic powerhouse, and a goldmine of opportunities. But raw talent and intuition aren't enough to stay ahead in this competitive arena — you need **data**.
+**Football** isn’t just a game; it’s a **global phenomenon**, an economic powerhouse, and a goldmine of opportunities. But raw talent and intuition aren't enough to stay ahead in this competitive arena — **you need** **data**.
 
-Whether you're refining betting strategies, crafting compelling content, or managing teams, our [**Football Collection**](https://datahub.io/collections/football) has you covered. It features **34 meticulously curated datasets** designed to deliver insights that drive success in every corner of the football world.
+Whether you're refining betting strategies, crafting compelling content, or managing teams, our [**Football Collection**](https://datahub.io/collections/football) has you covered. It features **30 meticulously curated datasets** designed to deliver insights that drive success in every corner of the football world.
 
-Are you curious how these tools can transform your approach?
+Are you curious how these tools can back your decision-making process?
 
 Keep reading to find out.
 
@@ -37,7 +37,7 @@ The [**Football Data collection**](https://datahub.io/collections/football) is t
 
 DataHub.io knows **open-source data** is the stepping stone to a deep dive into football statistics.
 
-We created a comprehensive collection including links to **34 datasets** encompassing a wide range of football-related variables, from world cups and major European leagues to stadiums and clubs’ standings.
+We created a comprehensive collection including links to **30 datasets** encompassing a wide range of football-related variables, from world cups and major European leagues to stadiums and clubs’ standings.
 
 The [Football Data](https://datahub.io/collections/football) collection allows you to find in one single place all the GitHub datasets you need to take your game to the next level. They address:
 
@@ -62,7 +62,7 @@ At this point, you may ask yourself: who can transform all of this information i
 
 Let’s see it together.
 
-# 3\. Who can benefit from football data?
+## 3\. Who can benefit from football data?
 
 The short answer is: **anybody** interested in sports.
 
@@ -96,16 +96,15 @@ More specifically, accessible and fully free data on matches, leagues and events
   * Spot possible new players from minor leagues
 
 
-Thanks to its extent, our Football datasets are a great fit for a broad number of professionals, allowing not only for **past trends analysis** but also for **data-based previsions**. The variety of available information, moreover, facilitates the **data-gathering process** of those who are interested in minor leagues, specific events, and even Bolao competitions.
+Thanks to its extent, our Football datasets are a great fit for a broad number of professionals, allowing not only for **past trends analysis** but also for **data-based previsions**. The variety of available information, moreover, facilitates the **data-gathering process** of those who are interested in minor leagues, specific events, and even [Bolao](https://www.bolao-sports.com/) competitions.
 
 ## 4\. Recap table
 
-| Field | Description |
+| NAME | [Football Data](https://datahub.io/collections/football) |
 | :---- | :---- |
-| NAME | [Football Datasets](https://datahub.io/collections/football) |
-| N° OF DATASETS | 34 |
-| TYPES OF DATASETS | 27 GitHub projects  5 DataHub datasets (JSON and CSV) 2 External articles  |
+| N° OF DATASETS | 30 |
+| TYPES OF DATASETS | 25 GitHub projects  5 DataHub datasets (JSON and CSV) 2 External articles  |
 | MAIN THEMES | Major European Leagues  Betting and prediction  National teams FIFA World Cup Bolão Cup Stadiums and players |
 | ACCESS | Completely free |
 
-🔎 Be part of the football data revolution **→** start diving into our **[Football Data collection](https://datahub.io/collections/football)\!**
+🔎Start building real knowledge on statistics **→** start diving into our **[Football Data collection](https://datahub.io/collections/football)\!**
