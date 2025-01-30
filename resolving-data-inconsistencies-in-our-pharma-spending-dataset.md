@@ -88,4 +88,4 @@ Moving forward, we’ll continue to monitor feedback and regularly audit our dat
 
 This fix underscores the importance of thorough data validation and user feedback in maintaining accurate public datasets. We appreciate the user who brought the discrepancy to our attention, helping us ensure that our platform remains a reliable source of information for healthcare and economic data.
 
-If you have any questions or further feedback, feel free to reach out or submit an issue on our GitHub repository. Your input is invaluable to us!
+If you have any questions or further feedback, feel free to submit an issue on our [GitHub repository](https://github.com/datahubio/datahub/issues). Your input is invaluable to us!
