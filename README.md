@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+January 30, 2025
+
+[[resolving-data-inconsistencies-in-our-pharma-spending-dataset|Resolving Data Inconsistencies in Our Pharma Spending Dataset]]
+
+Discover how we identified and corrected discrepancies in our pharma spending dataset—particularly with Greece's 2021 PC_GDP—by refining our data filtering processes and script logic.
+
+---
+
 January 24, 2025
 
 [[advanced-statistics-english-premier-league-analysis|Advanced statistics for English Premier League analysis]]
