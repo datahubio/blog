@@ -1,12 +1,9 @@
 ---
 title: 30 Years of History - The Most Comprehensive Serie A Dataset Available
-description: Football open data - structured stats for journalists, analysts & managers – updated daily.
+description: Football open data - structured stats for journalists, analysts & managers. Updated daily.
 date: 2025-01-31
 authors: [Nina Komadina]
 ---
-
-
-
 
 ![V01 grosso](/assets/v01-grosso-italy-world-cup-2006-football.svg)
 
