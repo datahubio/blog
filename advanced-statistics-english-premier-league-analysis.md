@@ -1,5 +1,5 @@
 ---
-title: Advanced statistics for English Premier League analysis
+title: Advanced Statistics for English Premier League Analysis
 description: Over three decades of free datasets for journalists, investors, and managers in the football industry.
 date: 2025-01-24
 authors: [Nina Komadina]
