@@ -1,5 +1,5 @@
 ---
-title: Advanced Statistics for English Premier League Analysis
+title: 30 Years of History - The Most Comprehensive Serie A Dataset Available
 description: Over three decades of free datasets for journalists, investors, and managers in the football industry.
 date: 2025-01-24
 authors: [Nina Komadina]
