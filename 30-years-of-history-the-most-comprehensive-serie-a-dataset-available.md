@@ -1,9 +1,10 @@
 ---
 title: 30 Years of History - The Most Comprehensive Serie A Dataset Available
-description: Football open data: structured stats for journalists, analysts and managers - updated daily.
-date: 2025-01-31
+description: Over three decades of free datasets for journalists, investors, and managers in the football industry.
+date: 2025-01-24
 authors: [Nina Komadina]
 ---
+
 
 
 
