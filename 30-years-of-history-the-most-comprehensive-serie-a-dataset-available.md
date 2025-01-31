@@ -1,5 +1,5 @@
 ---
-title: "30+ Years of History – The most comprehensive Serie A dataset available"
+title: "More than 30 Years of History – The most comprehensive Serie A dataset available"
 description: Football open data: structured stats for journalists, analysts & managers – updated daily.
 date: 2025-01-31
 authors: [Nina Komadina]
@@ -103,4 +103,14 @@ To sum up, our [Italian Serie A](https://datahub.io/core/italian-serie-a) datase
 | AVAILABILITY | Free and open-source |
 
 
+>[!IMPORTANT]
+> 📥 Get the Data & Start Exploring → [Download now](https://datahub.io/core/italian-serie-a)
+
+>[!IMPORTANT]
+> **Looking for reliable datasets for other countries and competitions worldwide?** 🔎 Check our [**Football Data collection**](https://datahub.io/blog/football-data-our-open-source-collection-of-worldwide-statistics)\.
+
+>[!NOTE]
+> **Want data that sparks ideas and fuels your work?**
+> 📩 Subscribe to our Weekly Dataset Pick and never miss a discovery!
+> 👉 Subscribe now – It’s free and built for curious minds. 🚀
 
