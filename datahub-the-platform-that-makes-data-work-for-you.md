@@ -61,5 +61,9 @@ With our expertise in **data engineering, open-source development, and cloud-bas
 
 DataHub exists so you can spend less time wrestling with data and more time making an impact.
 
-🔗 **Explore DataHub →** [DataHub.io](https://datahub.io)  
-🔗 **Learn more about Datopian →** [Datopian.com](https://www.datopian.com)
+>[!IMPORTANT]
+> 📥 Get the Data & Start Exploring → **[Curated Dataset Collections]([https://datahub.io/core/](https://datahub.io/collections))**
+> 🔗 Learn More About Datopian → **[Datopian.com](https://www.datopian.com)**
+
+**Want data that sparks ideas and fuels your work?**  
+📩 [Subscribe to our Weekly Dataset Pick Newsletter](https://datahub.io/#newsletter-form) and never miss a discovery! It’s free and built for curious minds.
