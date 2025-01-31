@@ -4,6 +4,22 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+January 31, 2025
+
+[[italian-serie-a-the-numbers-advanced-statistics-for-fans-and-professionals|Italian Serie A the numbers: advanced statistics for fans and professionals]]
+
+Three decades of open football data for journalists, investors, and managers in the football industry.
+
+---
+
+January 30, 2025
+
+[[datahub-the-platform-that-makes-data-work-for-you|DataHub: The Platform That Makes Data Work for You]]
+
+DataHub makes data easy to find, structure, and publish. Built by Datopian, creators of CKAN, Frictionless Data, PortalJS, and more, DataHub provides high-quality, curated datasets for industries that need accuracy, structure, and seamless integration.
+
+---
+
 January 30, 2025
 
 [[resolving-data-inconsistencies-in-our-pharma-spending-dataset|Resolving Data Inconsistencies in Our Pharma Spending Dataset]]
