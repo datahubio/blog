@@ -1,5 +1,5 @@
 ---
-title: "Football Data: our open-source collection of worldwide statistics"
+title: "Football Data: Our Open-Source Collection of Worldwide Statistics"
 description: 25 GitHub projects and 5 DataHub datasets to analyze players, stadiums, and competitions.
 date: 2025-01-23
 authors: [Nina Komadina]
