@@ -1,9 +1,10 @@
 ---
-title: 30 Years of History - The Most Comprehensive Serie A dataset available
-description: Football open data: structured stats for journalists, analysts & managers - updated daily. 
-date: 2025-01-31
+title: Advanced Statistics for English Premier League Analysis
+description: Over three decades of free datasets for journalists, investors, and managers in the football industry.
+date: 2025-01-24
 authors: [Nina Komadina]
 ---
+
 
 
 ![V01 grosso](/assets/v01-grosso-italy-world-cup-2006-football.svg)
