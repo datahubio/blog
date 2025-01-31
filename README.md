@@ -6,9 +6,9 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 January 31, 2025
 
-[[italian-serie-a-the-numbers-advanced-statistics-for-fans-and-professionals|Italian Serie A the numbers: advanced statistics for fans and professionals]]
+[[30-years-of-history-the-most-comprehensive-serie-a-dataset-available.md|30+ Years of History – The most comprehensive Serie A dataset available]]
 
-Three decades of open football data for journalists, investors, and managers in the football industry.
+Football open data: structured stats for journalists, analysts & managers – updated daily.
 
 ---
 
