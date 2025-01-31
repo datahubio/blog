@@ -104,13 +104,11 @@ To sum up, our [Italian Serie A](https://datahub.io/core/italian-serie-a) datase
 
 
 >[!IMPORTANT]
-> 📥 Get the Data & Start Exploring → [Download now](https://datahub.io/core/italian-serie-a)
-
->[!IMPORTANT]
+> 📥 Get the Data & Start Exploring → **[Download now](https://datahub.io/core/italian-serie-a)**
+> 
 > **Looking for reliable datasets for other countries and competitions worldwide?** 🔎 Check our [**Football Data collection**](https://datahub.io/blog/football-data-our-open-source-collection-of-worldwide-statistics)\.
 
->[!NOTE]
-> **Want data that sparks ideas and fuels your work?**
-> 📩 Subscribe to our Weekly Dataset Pick and never miss a discovery!
-> 👉 Subscribe now – It’s free and built for curious minds. 🚀
+**Want data that sparks ideas and fuels your work?**  
+📩 [Subscribe to our Weekly Dataset Pick Newsletter](https://datahub.io/#newsletter-form) and never miss a discovery! It’s free and built for curious minds.
+
 
