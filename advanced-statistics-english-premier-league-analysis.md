@@ -108,8 +108,10 @@ Put simply, the dataset on the [English Premier League](https://datahub.io/core/
 | SOURCE | [Football-Data](http://www.football-data.co.uk/) |
 | AVAILABILITY | Free and open-source |
 
-📥 Get the Data & Start Exploring → [Download now](https://datahub.io/core/english-premier-league)
+>[!IMPORTANT]
+> 📥 Get the Data & Start Exploring → **[Download now](https://datahub.io/core/english-premier-league)**
+> 
+> **Looking for reliable datasets for other countries and competitions worldwide?** 🔎 Check our [**Football Data collection**](https://datahub.io/blog/football-data-our-open-source-collection-of-worldwide-statistics)\.
 
-**Looking for reliable datasets for other countries and competitions worldwide?**
-
-🔎 Check our [**Football Data collection**](https://datahub.io/blog/football-data-our-open-source-collection-of-worldwide-statistics)\!
+**Want data that sparks ideas and fuels your work?**  
+📩 [Subscribe to our Weekly Dataset Pick Newsletter](https://datahub.io/#newsletter-form) and never miss a discovery! It’s free and built for curious minds.
