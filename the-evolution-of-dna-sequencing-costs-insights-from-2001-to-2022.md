@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of DNA Sequencing Costs: Insights from 2001 to 2022"
-description: Discover how genome sequencing dropped from $100M to $200.
+description: Discover how genome sequencing dropped from $100 million to just $200.
 date: 2025-02-04
 authors: [Nina Komadina]
 ---
@@ -9,7 +9,7 @@ authors: [Nina Komadina]
 
 If someone had told you in 2001 that **sequencing an entire human genome would soon cost less than a smartphone**, you probably wouldn’t have believed them.
 
-Back then, it cost **$95 million** to decode a single human genome. A feat so complex that only government-backed research initiatives could afford it. Today, that cost has fallen to **$200**, making genome sequencing as accessible as a routine medical test.
+Back then, it cost **USD 95 million** to decode a single human genome. A feat so complex that only government-backed research initiatives could afford it. Today, that cost has fallen to **USD 200**, making genome sequencing as accessible as a routine medical test.
 
 **This is one of the most stunning cost reductions in scientific history.**
 
@@ -66,7 +66,7 @@ We already mentioned it several times: technological advancements lead to a **dr
 
 ![v04-dna-cost-money-investment-trend](/assets/v04-dna-cost-money-investment-trend.svg)
 
-The [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) uncovers impressive figures. The medium cost to sequence a human genome was over **$95 million in 2001**. By 2022, that cost dropped to **$525** a staggering decrease of 99.999%. Just one year later, the [Illumina Center](https://emea.illumina.com/techniques/sequencing/dna-sequencing.html) reached the **$200** threshold**.**
+The [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) uncovers impressive figures. The medium cost to sequence a human genome was over **USD 95 million in 2001**. By 2022, that cost dropped to **USD 525** a staggering decrease of 99.999%. Just one year later, the [Illumina Center](https://emea.illumina.com/techniques/sequencing/dna-sequencing.html) reached the **$200** threshold**.**
 
 ## **Who can benefit from the cost drop?**
 
@@ -103,35 +103,35 @@ Most significantly, this open source is a great showcase not only of NHGRI’s s
 It should be clear, by now, that the **six implementation areas** that we briefly mentioned before represent just a tiny part of the opportunities that DNA sequencing offers. However, having a preview of its costs advantages any professionals who are planning a broader project, be it for **academic**, **societal**, or **business purposes**.
 
 * **Health professionals** can budget the improvement of their facility’s services, eventually becoming recognized for excellence in treating specific diseases:
-* CAR-T therapies for individual patients;
-* Prevention of breast cancer and Alzheimer’s disease;
-* Gene therapy and gene replacement approaches;
-* Targeted treatments for specific oncological cases.
+  * CAR-T therapies for individual patients;
+  * Prevention of breast cancer and Alzheimer’s disease;
+  * Gene therapy and gene replacement approaches;
+  * Targeted treatments for specific oncological cases.
 
 ![v05-crop-dna-sequencing-industry-investment](/assets/v05-crop-dna-sequencing-industry-investment.svg)
 
 * **Agricultural investors** can leverage this dataset to explore new investment opportunities, to improve their production by:
-* Enhance crop resilience;
-* Optimize soil health;
-* Reduce dependency on chemical fertilizers and pesticides.
+  * Enhance crop resilience;
+  * Optimize soil health;
+  * Reduce dependency on chemical fertilizers and pesticides.
 
 * **Virologists** can conduct research both for academic and pharmaceutical-business purposes:
-* Conduct genomic surveillance;
-* Develop new vaccines and antiviral drugs;
-* Identify drug-resistant strains of viruses.
+  * Conduct genomic surveillance;
+  * Develop new vaccines and antiviral drugs;
+  * Identify drug-resistant strains of viruses.
 
 ![v06-dna-sequencing-cost-influencer-health](/assets/v06-dna-sequencing-cost-influencer-health.svg)
 
 * **Environmentalists**:
-* Monitor biodiversity through eDNA sequencing;
-* Track invasive species and pathogens;
-* Analyze microbial communities to foster bioremediation;
-* Study genetic adaptations of species.
+  * Monitor biodiversity through eDNA sequencing;
+  * Track invasive species and pathogens;
+  * Analyze microbial communities to foster bioremediation;
+  * Study genetic adaptations of species.
 
 * **Scientific populizers and influencers** can use the [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) to have reliable data on the costs associated with DNA sequencing to:
-* Draft dedicated content;
-* Comparing the NHGRI figures with other facilities;
-* Suggesting possible the costs’ collapse.
+  * Draft dedicated content;
+  * Comparing the NHGRI figures with other facilities;
+  * Suggesting possible the costs’ collapse.
 
 ## 6\. The dataset recap table
 
