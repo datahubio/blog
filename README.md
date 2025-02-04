@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+February 4, 2025
+
+[[the-evolution-of-dna-sequencing-costs-insights-from-2001-to-2022|The Evolution of DNA Sequencing Costs: Insights from 2001 to 2022]]
+
+Discover how genome sequencing dropped from $100M to $200.
+
+---
+
 January 31, 2025
 
 [[30-years-of-history-the-most-comprehensive-serie-a-dataset-available.md|30+ Years of History – The most comprehensive Serie A dataset available]]
