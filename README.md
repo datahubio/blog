@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+February 5, 2025
+
+[[one-database-every-postal-code-worldwide-simplify-your-search|One database, every postal code worldwide: simplify your search]]
+
+Ensure data accuracy, reduce delays, and minimize costs with our monthly refreshed database.
+
+---
+
 February 4, 2025
 
 [[the-evolution-of-dna-sequencing-costs-insights-from-2001-to-2022|The Evolution of DNA Sequencing Costs: Insights from 2001 to 2022]]
