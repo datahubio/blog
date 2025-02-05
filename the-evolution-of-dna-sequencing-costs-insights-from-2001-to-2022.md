@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of DNA Sequencing Costs: Insights from 2001 to 2022"
-description: Discover how genome sequencing dropped from $100 million to just $200.
+description: Discover how genome sequencing dropped from USD 100 million to just USD 200.
 date: 2025-02-04
 authors: [Nina Komadina]
 ---
@@ -66,7 +66,7 @@ We already mentioned it several times: technological advancements lead to a **dr
 
 ![v04-dna-cost-money-investment-trend](/assets/v04-dna-cost-money-investment-trend.svg)
 
-The [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) uncovers impressive figures. The medium cost to sequence a human genome was over **USD 95 million in 2001**. By 2022, that cost dropped to **USD 525** a staggering decrease of 99.999%. Just one year later, the [Illumina Center](https://emea.illumina.com/techniques/sequencing/dna-sequencing.html) reached the **$200** threshold**.**
+The [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) uncovers impressive figures. The medium cost to sequence a human genome was over **USD 95 million in 2001**. By 2022, that cost dropped to **USD 525** a staggering decrease of 99.999%. Just one year later, the [Illumina Center](https://emea.illumina.com/techniques/sequencing/dna-sequencing.html) reached the **USD 200** threshold**.**
 
 ## **Who can benefit from the cost drop?**
 

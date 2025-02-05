@@ -8,7 +8,7 @@ February 4, 2025
 
 [[the-evolution-of-dna-sequencing-costs-insights-from-2001-to-2022|The Evolution of DNA Sequencing Costs: Insights from 2001 to 2022]]
 
-Discover how genome sequencing dropped from `$100` million to just `$200`.
+Discover how genome sequencing dropped from USD 100 million to just USD 200.
 
 ---
 
