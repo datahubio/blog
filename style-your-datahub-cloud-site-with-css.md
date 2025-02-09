@@ -1,4 +1,12 @@
-# Tutorial: Customize Your DataHub Cloud Site with CSS
+---
+title: "DataHub Cloud: Customize Your Site with CSS"
+description: Learn how to personalise your DataHub Cloud site by customizing styles and adding a hero section using CSS.
+date: 2024-04-30
+authors:
+  - Ola Rubaj
+tags:
+  - datahub-cloud
+---
 
 ## Introduction
 
@@ -220,6 +228,3 @@ Congratulations! You've just learned how to customize the appearance of your Dat
 If you encounter any issues or have questions, the DataHub Cloud community and support team are here to help.
 
 Happy styling!
-
-
-

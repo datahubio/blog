@@ -1,8 +1,11 @@
 ---
-title: New Endpoint for Fetching Raw Data Files from DataHub Cloud Datasets
+title: "DataHub Cloud: New Endpoint for Fetching Raw Data Files from DataHub Datasets"
 description: Now you can fetch data files from DataHub Cloud datasets using a stable endpoint, that you can integrate into your workflows.
 date: 2024-09-25
-authors: [Ola Rubaj]
+authors:
+  - Ola Ruba
+tags:
+  - datahub-cloud
 ---
 
 We’re excited to introduce a new endpoint that allows you to fetch raw data files from DataHub Cloud datasets (and any other DataHub Cloud sites). Here’s an overview of the changes.

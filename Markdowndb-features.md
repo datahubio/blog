@@ -1,8 +1,11 @@
 ---
-title: "Unveiling MarkdownDB's Latest Features: Export to JSON, task extraction, and computed fields 🚀"
+title: "MarkdownDB: Unveiling Latest Features - Export to JSON, task extraction, and computed fields 🚀"
 date: 2023-12-12
-authors: ['Mohamed Yahia']
-filetype: blog
+description: "MarkdownDB continues to evolve, introducing new features to enhance the management of Markdown files. In this blog post, we're thrilled to present three exciting features: export to JSON files, task extraction, and computed fields."
+authors:
+  - Mohamed Yahia
+tags:
+  - markdowndb
 ---
 
 

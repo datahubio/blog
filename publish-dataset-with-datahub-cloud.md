@@ -1,8 +1,11 @@
 ---
-title: "Tutorial: Publish your dataset with DataHub Cloud"
+title: "DataHub Cloud: Learn How to Publish Your Datasets with DataHub Cloud"
+description: A step-by-step tutorial on how to publish datasets using DataHub Cloud, covering GitHub repository setup, data file management, and dataset description using the Frictionless data standard.
 date: 2024-05-14
 authors:
   - Ola Rubaj
+tags:
+  - datahub-cloud
 ---
 ## Introduction
 
@@ -106,6 +109,3 @@ Congratulations! You've just learned how to publish a dataset with DataHub Cloud
 If you encounter any issues or have questions, the DataHub Cloud community and support team are here to help.
 
 Happy hacking!
-
-
-

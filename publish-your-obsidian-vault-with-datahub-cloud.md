@@ -1,7 +1,11 @@
 ---
-title: How to Publish Your Obsidian Vault with DataHub Cloud
-authors: [Ola Rubaj]
+title: "DataHub Cloud: How to Publish Your Obsidian Vault"
+description: A step-by-step guide on publishing your Obsidian vault online using DataHub Cloud. Learn how to make your notes accessible, track changes, and collaborate with others by connecting your vault to GitHub and creating a website, suitable for users of all technical levels.
 date: 2024-07-10
+authors:
+  - Ola Rubaj
+tags:
+  - datahub-cloud
 ---
 
 Publishing your Obsidian vault with DataHub Cloud is an excellent way to make your notes accessible online, track changes over time, and collaborate with others. This guide will walk you through the process step-by-step, starting with getting your vault onto GitHub and then using DataHub Cloud to create a website for your notes, making it simple even for non-tech-savvy users.
@@ -46,9 +50,9 @@ To make sure that your Obsidian vault has been correctly added to the repository
 
 ## Step 2: Push Your Vault to GitHub
 
-With your repository set up locally, it’s time to push it to GitHub.
+With your repository set up locally, it's time to push it to GitHub.
 
-In the GitHub Desktop app, you’ll see a dashboard with "No local changes". Click on the "Publish repository" button
+In the GitHub Desktop app, you'll see a dashboard with "No local changes". Click on the "Publish repository" button
 
 ![[Pasted image 20240708195937.png]]
 
@@ -56,7 +60,7 @@ A new window will appear. Confirm the repository name, add an optional descripti
 
 ![[Pasted image 20240708200035.png]]
 
-Wait for the process to finish. You'll get a prompt once the upload is complete, and you can visit your repository on GitHub’s website to see your uploaded vault.
+Wait for the process to finish. You'll get a prompt once the upload is complete, and you can visit your repository on GitHub's website to see your uploaded vault.
 
 ## Step 3: Publish Your Repository with DataHub Cloud
 
@@ -66,7 +70,7 @@ Go to your DataHub Cloud account and click the "Create New Site" button at the t
 
 ![[Pasted image 20240708204225.png]]
 
-You’ll be redirected to the settings page of your new DataHub Cloud site. 
+You'll be redirected to the settings page of your new DataHub Cloud site. 
 
 ![[Pasted image 20240708204423.png]]
 
@@ -78,7 +82,7 @@ You may need to wait a bit for the site to finish syncing content with your GitH
 
 Once your vault is set up and published, you'll likely want to make changes and update your site. 
 
-Open the GitHub Desktop app. In the "Changes" tab you’ll see a list of changes you’ve made. Write a summary of the changes in the "Summary" field and click "Commit to main".
+Open the GitHub Desktop app. In the "Changes" tab you'll see a list of changes you've made. Write a summary of the changes in the "Summary" field and click "Commit to main".
 
 ![[Pasted image 20240708202621.png]]
 
@@ -91,13 +95,10 @@ DataHub Cloud should automatically update your site after you push changes to th
 For those who want an even easier way to manage changes to their Obsidian vault, the Obsidian Git plugin can automate the process of pushing updates to GitHub directly from within Obsidian, without the need for switching back and forth between Obsidian and GitHub Desktop. Refer to [the docs](https://github.com/Vinzent03/obsidian-git) to learn more.
 
 > [!note]
->  You can set the plugin to automatically commit and push changes at regular intervals. Configure this in the plugin settings under “Auto-push every X minutes”.
+>  You can set the plugin to automatically commit and push changes at regular intervals. Configure this in the plugin settings under "Auto-push every X minutes".
 
 ---
 
 If you encounter any issues or have questions, the DataHub Cloud community and support team are here to help.
 
 Happy hacking!
-
-
-

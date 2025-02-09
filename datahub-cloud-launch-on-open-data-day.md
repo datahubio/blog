@@ -1,8 +1,10 @@
 ---
 title: "DataHub Cloud Launch on Open Data Day: Build elegant data-driven sites with markdown & deploy in seconds"
 date: 2024-03-05
-authors: ['Yoana Popova']
-filetype: blog
+authors:
+  - Yoana Popova
+tags:
+  - datahub-cloud
 ---
 
 We live in a world awash with data, but it's not just about having data. It's what you do with it that counts. You're out there, data warriors, fighting the good fight. You've got insights that could change the world, or at least make someone's day a little easier. But there's a hitch. Sharing your data is one thing. Making it compelling, accessible, and downright beautiful is another. That's where the struggle lies. That's why this Open Data Day, we're pulling back the curtain on something that's going to simplify data sharing and make it more impactful. 
