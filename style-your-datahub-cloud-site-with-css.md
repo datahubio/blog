@@ -27,7 +27,7 @@ Here's an example of what we'll transform:
 
 Into this:
 
-![[custom-css-2.png]]
+![[custom-css-4.png]]
 
 ## What You'll Need
 
@@ -62,7 +62,7 @@ Modern web browsers come with powerful tools that help you see and experiment wi
 
 This opens the "Developer Tools" window, which might look intimidating at first but is super helpful!
 
-![[Pasted image 20250210235116.png]]
+![[custom-css-1.png]]
 
 > [!tip]
 > Keep the developer tools open while working on your styles. This allows you to see changes in real-time and experiment before committing to your `custom.css` file.
@@ -77,7 +77,7 @@ Now comes the fun part - trying out different styles:
    - Type in a CSS selector of what you want to change (like `h2` for all level-2 headings)
    - Press Enter and start adding your changes
 
-![[Pasted image 20250210233859.png]]
+![[custom-css-2.png]]
 
 > [!tip]
 > Learn more about CSS selectors:
@@ -129,7 +129,7 @@ h3, h6 {
 
 The result:
 
-![[Pasted image 20250210234556.png]]
+![[custom-css-3.png]]
 
 ## Step 4: Add a Welcome Section (Hero)
 
@@ -203,7 +203,7 @@ Want to add a beautiful welcome section to your main page? Here's how:
 ```
 
 The result:
-![[custom-css-2.png]]
+![[custom-css-4.png]]
 
 ## Having Problems?
 
