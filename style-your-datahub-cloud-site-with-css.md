@@ -1,122 +1,142 @@
 ---
-title: "DataHub Cloud: Customize Your Site with CSS"
-description: Learn how to personalise your DataHub Cloud site by customizing styles and adding a hero section using CSS.
+title: "DataHub Cloud: Learn How to Style Your Site with CSS"
+description: A step-by-step guide to customizing your site's appearance using CSS, from basic styling to advanced hero sections
 date: 2024-04-30
+modified: 2025-02-10
 authors:
   - Ola Rubaj
 tags:
   - datahub-cloud
 ---
 
-## Introduction
+This tutorial will guide you through the process of customizing your DataHub Cloud site's appearance using CSS. You'll learn how to create and use a custom CSS file to modify existing styles and add new styled components like a hero section.
 
-In this tutorial, we're going to explore how you can personalise the appearance of your DataHub Cloud site. By the end of this tutorial, you'll learn how to use a `custom.css` file to adjust existing styles and how to add and style a simple hero to your landing page.
+## What You Can Achieve
 
-### What You'll Need
+Before we dive into the how-to, here's what you can do with custom styling:
 
-- GitHub account and basic knowledge of GitHub UI (especially editing and adding files)
-- A [DataHub Cloud](https://datahub.io/) site you want to customise.
-- Basic knowledge of CSS (or more, depending on what you want to achieve)
-- Basic knowledge of browser developer tools.
+- Change colors of text and backgrounds
+- Use different fonts for headings and text
+- Add beautiful header sections (called "hero sections")
+- Customize the look of buttons and links
+- And much more!
 
-## Part 1: Adjusting Default Styles with `custom.css`
+Here's an example of what we'll transform:
 
-Here is an example landing page of a site published with DataHub Cloud that we're going to style. You can use any of your DataHub Cloud sites.
+![[custom-css.png]]
 
-![[css-tutorial-1.png]]
+Into this:
 
-Here is the underlying markdown content:
+![[custom-css-2.png]]
 
-```md
----
-title: My Musings & Memories 🧘‍♀️🏄‍♀️🏔️
-description: "Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!"
-date: 2024-04-24]
----
+## What You'll Need
 
-## Recent Posts
+Before you begin, make sure you have:
+- A DataHub Cloud site set up
+- Basic knowledge of GitHub UI
+- Basic knowledge of CSS
+- Basic knowledge of browser developer tools
 
-- [[/life-lessons-learned|Life Lessons Learned]]
-- [[/travel-thailand#Bangkok at Night|Travel to Thailand]]
-- [[/blog/javascript-tips|Let's Talk JavaScript]]
+We're going to start with the following example site:
 
-## Featured Content
+![[custom-css.png]]
 
-> [!info] Don't forget to check:
-> [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
+## Step 1: Create Your Custom Styles File
 
----
-
-### Photo of the Week
-
-![[auroras.jpeg]]
-
----
-
-...
-```
-
-### Step 1: Create the `custom.css` File
-
-In the root of your site's GitHub repository, create a file named `custom.css`. 
+1. Go to your site's main folder on GitHub
+2. Create a new file named `custom.css` (this is where we'll put all our styling code)
 
 > [!important]
-> If you're site is published from a subfolder of your repository (i.e. you've specified "Root Directory" config field), the `custom.css` file should be placed in that subfolder.
+> If you set up your site to publish from a specific folder (in your "Root Directory" setting), make sure to create the `custom.css` file in that same folder.
 
-### Step 2: Change Background Colour & Heading Fonts
+## Step 2: Find What You Want to Change
 
-Now, let's change the background colour and heading fonts a bit.
+Modern web browsers come with powerful tools that help you see and experiment with styles. Here's how to use them:
 
-Add the following CSS rules in your `custom.css` file and commit your changes. Then, go to your DataHub Cloud dashboard and **sync your site**.
+1. Open your site in your web browser
+2. Find something you want to change (like a heading or background)
+3. Right-click on it and select "Inspect" 
+
+> [!tip]
+> Use "hover-over" inspect mode by pressing Cmd+Shift+C (Mac) or Ctrl+Shift+C (Windows/Linux). Your cursor will change, allowing you to hover over any element on the page and click to inspect it. This makes it much easier to find exactly what you want to style!
+
+This opens the "Developer Tools" window, which might look intimidating at first but is super helpful!
+
+![[Pasted image 20250210235116.png]]
+
+> [!tip]
+> Keep the developer tools open while working on your styles. This allows you to see changes in real-time and experiment before committing to your `custom.css` file.
+
+## Step 3: Experiment with Changes
+
+Now comes the fun part - trying out different styles:
+
+1. In the Developer Tools window that opened:
+   - Look for the "Styles" section (usually on the right or bottom)
+   - Click the "+" button to add new styles
+   - Type in a CSS selector of what you want to change (like `h2` for all level-2 headings)
+   - Press Enter and start adding your changes
+
+![[Pasted image 20250210233859.png]]
+
+> [!tip]
+> Learn more about CSS selectors:
+> - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) for comprehensive documentation
+> - [CSS Diner](https://flukeout.github.io) for an interactive game to practice selectors
+
+2. Try changing things like:
+   - `color` for text color (you can use a color picker!)
+   - `background-color` for background colors
+   - `font-family` for different fonts
+   - `font-size` to make text bigger or smaller
+   - `font-weight` to adjust font's thickness
+
+3. When you like how it looks:
+   - Copy the styling code you created
+   - Paste it into your `custom.css` file
+   - Save and sync your site to see the changes live
+
+Here's an example of styling code that changes your site's background and headings:
 
 ```css
-/* Change heading fonts and colors */
+/* Change the background color of the whole site */
 .bg-background {
     background: #f9f6f1 !important;
 }
 
+/* Make all headings use a special font and be bold */
 h1, h2, h3, h4, h5, h6 {
     font-family: "Lucida Console", "Courier New", monospace !important;
     font-weight: bold !important;
 }
 
+/* Give different heading levels different colors */
 h1, h4 {
-    color: #d30c7b !important;
+    color: #d30c7b !important;  /* Pink */
 }
 
 h2, h5 {
-    color: #ba5a31 !important;
+    color: #ba5a31 !important;  /* Orange */
 }
 
 h3, h6 {
-    color: #508484 !important;
+    color: #508484 !important;  /* Teal */
 }
 ```
 
 > [!note]
-> Note, that we needed to override the existing styles with `!important ` rule. This may not be needed each time, but if you're trying to tweak some styles and there is no effect, you may need to use it.
+> Notice how we grouped selectors like `h1, h2, h3, h4, h5, h6` and then `h1, h4`, `h2, h5`, `h3, h6` to avoid repeating CSS rules that we want to apply to multiple elements. This makes our CSS more maintainable and efficient.
 
-Here is the end result on our example page. Pretty nice, huh?
+The result:
 
-![[css-tutorial-2.png]]
+![[Pasted image 20250210234556.png]]
 
-### Step 3: Style Anything You Want
+## Step 4: Add a Welcome Section (Hero)
 
-This was just a basic example of tweaking css on your DataHub Cloud site. But you can style virtually anything you can see on your page. You just need to find out how to properly "select" the HTML element you want to style in your `custom.css`. 
+Want to add a beautiful welcome section to your main page? Here's how:
 
-> [!note] Disclaimer
-> This is not a tutorial on CSS and CSS selectors, so you need to do your own research here 😉
-
-## Part 2: Adding a Simple HTML Hero
-
-Did you know that you can include HTML tags in your markdown? If not, let me show you how.
-Then, you'll be able to use the knowledge from Part 1 and style those elements too!
-
-Let's try replacing the current header (title, description, and date) in our example with a simple hero element.
-
-#### Step 1: Add a Simple HTML Hero
-
-Let's replace the current frontmatter with the following HTML snippet:
+1. Open your main `README.md` file
+2. Replace the title and description with this code:
 
 ```html
 <div class="hero">
@@ -126,44 +146,18 @@ Let's replace the current frontmatter with the following HTML snippet:
 </div>
 ```
 
-The markdown file now looks like this:
+> [!info]
+> We add specific classes to each element (`hero`, `hero-title`, `hero-description`, `hero-button`) so we can target them individually in our CSS. This makes styling much easier than using generic selectors like `div` or `h1`, and allows us to apply different styles to each component of the hero section without affecting other elements on the page.
 
-```md
-<div class="hero">
-    <h1 class="hero-title">My Musings & Memories 🧘‍♀️🏄‍♀️🏔️</h1>
-    <p class="hero-description">Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!</p>
-    <a href="/blog" class="hero-button">See my blog</a>
-</div>
+> [!important]
+> When using an h1 tag in a custom component (like our hero section), you must explicitly set `display: block !important;` in your CSS. This is required due to how DataHub Cloud handles page titles internally. You can see this in the `.hero-title` CSS rule below.
 
-## Recent Posts
-
-- [[/life-lessons-learned|Life Lessons Learned]]
-- [[/travel-thailand#Bangkok at Night|Travel to Thailand]]
-- [[/blog/javascript-tips|Let's Talk JavaScript]]
-
-## Featured Content
-
-> [!info] Don't forget to check:
-> [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
-
----
-
-### Photo of the Week
-
-![[auroras.jpeg]]
-
----
-```
-
-Now, commit your changes.
-
-### Step 2: Style Your Hero with `custom.css`
-
-Back in your `custom.css` file, add the following styles (or other!) for your custom hero section:
+2. Commit your changes and sync your site in the DataHub Cloud dashboard.
+3. Use developer tools to experiment with hero styles like we did earlier.
+4. Once you're satisfied, add the styles to your `custom.css`, for example:
 
 ```css
-...
-
+/* The main welcome section container */
 .hero {
   background-color: #508484;
   height: 500px;
@@ -176,17 +170,21 @@ Back in your `custom.css` file, add the following styles (or other!) for your cu
   padding: 0 36px;
 }
 
+/* The main title */
 .hero-title {
   font-size: 4rem;
-    color: #E35AA6 !important;
-    margin-bottom: 0px;
+  color: #E35AA6 !important;
+  margin-bottom: 0px;
+  display: block !important;  /* Required for h1 tags in custom components */
 }
 
+/* The description text */
 .hero-description {
   font-size: 1.5rem;
   margin-bottom: 30px;
 }
 
+/* The button style */
 .hero-button {
   background-color: #fff;
   color: #333;
@@ -197,34 +195,28 @@ Back in your `custom.css` file, add the following styles (or other!) for your cu
   transition: all 0.3s ease-in-out;
 }
 
+/* What happens when you hover over the button */
 .hero-button:hover {
   background-color: #D679AC;
   color: #fff;
 }
 ```
 
-Once again, commit your changes. Now, head to your DataHub Cloud dashboard and **sync your site**. Now you can refresh your browser and you should see your landing page with the styled hero. Our example looks like this:
+The result:
+![[custom-css-2.png]]
 
-![[css-tutorial-3.png]]
+## Having Problems?
 
-You can also add this extra hack to make the hero break out of the parent container and span the whole site width:
+If your changes aren't showing up:
 
-```css
-.hero {
-  ...
-  margin: 0 calc(min(28rem - 1.5rem - 50vw, 0px));
-  margin-top: -3rem;
-}
-```
+1. Make sure you've saved and synced your site
+2. Try clearing your browser's cache (press Ctrl+F5 or Cmd+Shift+R)
+3. Double-check your `custom.css` file is in the right folder
+4. Look at the Developer Tools to see if other styles are overriding yours (you might need to add `!important` to your styles)
 
-![[css-tutorial-4.png]]
-
-## Conclusion
-
-Congratulations! You've just learned how to customize the appearance of your DataHub Cloud site using a `custom.css` file for subtle and not-so-subtle tweaks of your sites style. Explore, experiment, and most importantly, have fun designing your site.
+> [!tip]
+> Keep the Developer Tools open while you work - it's the easiest way to see what's happening with your styles in real-time!
 
 ---
 
-If you encounter any issues or have questions, the DataHub Cloud community and support team are here to help.
-
-Happy styling!
+Need help? Join our friendly community on [Discord](https://discord.com/invite/KrRzMKU) - we're always happy to help you make your site look amazing!

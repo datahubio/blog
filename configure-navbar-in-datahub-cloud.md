@@ -2,6 +2,7 @@
 title: "DataHub Cloud: Learn How to Configure the Navigation Bar"
 description: A step-by-step guide to customizing your site's navigation bar's logo, links, and social media
 date: 2024-05-20
+modified: 2025-02-09
 authors:
   - Ola Rubaj
 tags:
