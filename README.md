@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+February 10, 2025
+
+[[love-data-week-2025-a-global-celebration-of-data-impact|Love Data Week 2025: A Global Celebration of Data’s Impact]]
+
+Exploring how data ethics and management are shaping the future, one dataset at a time.
+
+---
+
 February 5, 2025
 
 [[one-database-every-postal-code-worldwide-simplify-your-search|One database, every postal code worldwide: simplify your search]]
