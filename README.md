@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+February 12, 2025
+
+[[vix-index-data-how-to-use-market-volatility-for-smarter-trading-portfolio-protection|VIX Index Data: How to Use Market Volatility for Smarter Trading & Portfolio Protection]]
+
+What is the CBOE Volatility Index (VIX)? A practical guide to the VIX Index and its applications in trading, featuring a daily updated dataset in CSV and JSON formats.
+
+---
+
 February 10, 2025
 
 [[love-data-week-2025-a-global-celebration-of-data-impact|Love Data Week 2025: A Global Celebration of Data’s Impact]]
