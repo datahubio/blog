@@ -80,26 +80,26 @@ Data on the [CBOE Volatility Index](https://datahub.io/core/finance-vix) don’t
 Based on your position and interests, you could exploit [our dataset](https://datahub.io/core/finance-vix) in different ways:
 
 * **Traders and investors** use the VIX index to understand the market’s sentiment, thus **informing their strategies** with more complete information.
-* Identify windows of short-term profit generation
-* Speculating on violent swings in the market
-* Evaluate the risk and allocate resources to their portfolio
+  * Identify windows of short-term profit generation
+  * Speculating on violent swings in the market
+  * Evaluate the risk and allocate resources to their portfolio
 
 * **Financial analysts** mainly use the VIX to calculate the **Value at Risk (VaR)**.
-* Individuate crisis or recovery periods
-* Draft reports for investors and companies
-* Identify hedging strategies
+  * Individuate crisis or recovery periods
+  * Draft reports for investors and companies
+  * Identify hedging strategies
 
 ![v04-investor-stock-market-us-washington-dc](/assets/v04-investor-stock-market-us-washington-dc.svg)
 
 * **Hedge fund managers** base both their capital allocation and portfolio protection on the VIX trends, exploiting its implications.
-* Specialize in volatility-based strategies to generate high profits
-* Risk management, reducing the leverage, and increasing liquidity
-* Conduct dynamic allocations of the portfolio assets
+  * Specialize in volatility-based strategies to generate high profits
+  * Risk management, reducing the leverage, and increasing liquidity
+  * Conduct dynamic allocations of the portfolio assets
 
 * **Journalists and researchers** can explore VIX data to create more compelling narratives and individuate new causal relationships on the stock market sentiment.
-* Individuate trends and link them to political events
-* Forecast crisis periods to monitor the stock market more closely
-* Delve into the investors’ psychology
+  * Individuate trends and link them to political events
+  * Forecast crisis periods to monitor the stock market more closely
+  * Delve into the investors’ psychology
 
 It is no mystery: the [CBOE Volatility Index](https://datahub.io/core/finance-vix) dataset is the best tool to a**lways be on top of stock market fluctuations**, adding depth to financial investments on different layers. DataHub.io thus offers exactly what traders and investors need: a comprehensive tool to gather **immediately profitable information**.
 
@@ -116,7 +116,7 @@ It is no mystery: the [CBOE Volatility Index](https://datahub.io/core/finance-vi
 |  | VIX value at market closing (CLOSE) |
 |  | Maximum VIX reached (HIGH) |
 |  | Minimum VIX reached (LOW) |
-| SOURCE | [Cboe Global Markets](http://e_products/vix/vix_historical_data/) |
+| SOURCE | [Cboe Global Markets](https://www.cboe.com/tradable_products/vix/vix_historical_data/) |
 | LICENSE | Uncertain, likely Open Data Commons Public Domain Dedication and License ([PDDL](https://opendatacommons.org/licenses/pddl/)) |
 
 📥 Explore our dataset, updated daily on DataHub.io, available in CSV and JSON formats → [**Download now**](https://datahub.io/core/finance-vix)
