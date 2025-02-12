@@ -36,7 +36,7 @@ Through this solution, we allow you to have complete information not only about 
 
 ## 2\. The worth of our dataset of global postal codes
 
-Put simply, [DataHub.io’s collection](http://DataHub.io’s) lets you gather any kind of information about the postal codes of a place with **just a few clicks**. We aimed to tackle at least t**hree of the most common problems** for shipping logistics:
+Put simply, [DataHub.io’s collection](https://datahub.io/collections/postal-codes-datasets) lets you gather any kind of information about the postal codes of a place with **just a few clicks**. We aimed to tackle at least t**hree of the most common problems** for shipping logistics:
 
 * National administrations worldwide follow very **different categorization systems**, slowing down international delivery companies that don’t have access to homogeneous and actionable data;
 * Some regions **frequently update** postal codes due to national bureaucratic necessities, requiring businesses to constantly review the correctness of their data;
@@ -50,7 +50,7 @@ If you are asking how all of these problems can be solved in one step, DataHub.i
 * It **spares a large amount of time** in data collecting, accelerating internal and external bureaucratic processes.
 * It minimizes errors and mishaps by preventing the **miscoding or misplacement** of locations, regardless of their size.
 
-Last but not least, the [DataHub.io](http://DataHub.io) team is refreshing the available datasets **on a monthly basis**. In this way, we manage to provide **complete and dependable information** about postal codes from all over the world while stopping them from becoming obsolete.
+Last but not least, the [DataHub.io](https://datahub.io) team is refreshing the available datasets **on a monthly basis**. In this way, we manage to provide **complete and dependable information** about postal codes from all over the world while stopping them from becoming obsolete.
 The **unique features** of our collection of worldwide postal code datasets make it an invaluable resource for businesses that deal with international shipping.
 
 Why are different world-leading companies already choosing [our solutions](https://datahub.io/collections/postal-codes-datasets)?
@@ -64,7 +64,7 @@ It's no surprise that shipping and e-commerce businesses are the first to benefi
   * Improve estimated delivery times;
   * Customization of the included areas according to your needs.
 
-* **Geolocalization and mapping services**: [DataHub.io’s datasets](http://DataHub.io’s) are constantly updated, guaranteeing almost full accuracy in address compilation.
+* **Geolocalization and mapping services**: DataHub.io’s datasets are constantly updated, guaranteeing almost full accuracy in address compilation.
   * Improve user experience;
   * Expand location-based services;
   * Offer location-based solutions both nationally and across borders;
