@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+February 20, 2025
+
+[[perturbing-love-3-datasets-that-changed-the-world|Perturbing Love: 3 Datasets That Changed the World]]
+
+Discover the wholesome love languages data use to empower human evolution.
+
+---
+
 February 14, 2025
 
 [[global-data-solutions-curated-datasets-for-informed-business-decisions|Global Data Solutions: Curated Datasets for Informed Business Decisions]]
