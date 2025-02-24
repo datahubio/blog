@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+February 24, 2025
+
+[[how-dirty-data-could-be-draining-your-business-lessons-from-the-trenches|How Dirty Data Could Be Draining Your Business: Lessons from the Trenches]]
+
+Uncover how mismanaged data can cost you more than just money and learn the strategies to fix it.
+
+---
+
 February 20, 2025
 
 [[perturbing-love-3-datasets-that-changed-the-world|Perturbing Love: 3 Datasets That Changed the World]]
