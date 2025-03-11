@@ -80,3 +80,32 @@ Make clean data a core part of your strategy today to drive innovation, enhance 
 
 | Want data that sparks ideas and fuels your work?📩Subscribe to our Weekly Dataset Pick and never miss a discovery\! 👉 [Subscribe now](https://datahub.io/#newsletter-form) – It’s free and built for curious minds. 🚀 |
 | :---- |
+
+<LineChart
+  data={{
+    values: [
+      {
+        value: -0.41765878,
+        year: '1850'
+      },
+      {
+        value: -0.2333498,
+        year: '1851'
+      },
+      {
+        value: -0.22939907,
+        year: '1852'
+      },
+      {
+        value: -0.27035445,
+        year: '1853'
+      },
+      {
+        value: -0.29163003,
+        year: '1854'
+      }
+    ]
+  }}
+  xAxis="year"
+  yAxis="value"
+/>
