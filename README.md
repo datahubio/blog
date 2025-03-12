@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+March 12, 2025
+
+[[three-decades-bundesliga-statistics|Three decades of detailed Bundesliga statistics]]
+
+Structured and constantly updated open-source datasets for journalists, investors, and managers.
+
+---
+
 February 24, 2025
 
 [[how-dirty-data-could-be-draining-your-business-lessons-from-the-trenches|How Dirty Data Could Be Draining Your Business: Lessons from the Trenches]]
