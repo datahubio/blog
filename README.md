@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+March 18, 2025
+
+[[spanish-la-liga-open-data-for-fans-professionals|Spanish La Liga open, comprehensive data for fans and professionals]]
+
+30+ datasets to keep up with Spanish football’s technological innovations and drive high-quality decision making.
+
+---
+
 March 12, 2025
 
 [[three-decades-bundesliga-statistics|Three decades of detailed Bundesliga statistics]]
