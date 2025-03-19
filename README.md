@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+March 19, 2025
+
+[[from-coding-marathons-to-corporate-strategy-the-evolution-of-hackathons|From Coding Marathons to Corporate Strategy: The Evolution of Hackathons]]
+
+Discover how global companies are using hackathons to fuel creativity, recruit talent, and build long-term solutions.
+
+---
+
 March 18, 2025
 
 [[spanish-la-liga-open-data-for-fans-professionals|Spanish La Liga open, comprehensive data for fans and professionals]]
