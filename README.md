@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+March 20, 2025
+
+[[understanding-war-through-data-the-ultimate-conflict-analysis-collection|Understanding War Through Data: The Ultimate Conflict Analysis Collection]]
+
+Explore the most trustworthy datasets on war and geopolitical shifts to gain deeper insights into global violence and its impact.
+
+---
+
 March 19, 2025
 
 [[from-coding-marathons-to-corporate-strategy-the-evolution-of-hackathons|From Coding Marathons to Corporate Strategy: The Evolution of Hackathons]]
