@@ -4,14 +4,6 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
-March 26, 2025
-
-[[test-blog|Test Blog]]
-
-This is a description of my test blog.
-
----
-
 March 20, 2025
 
 [[understanding-war-through-data-the-ultimate-conflict-analysis-collection|Understanding War Through Data: The Ultimate Conflict Analysis Collection]]
