@@ -66,11 +66,11 @@ We already mentioned it several times: technological advancements lead to a **dr
 
 ![v04-dna-cost-money-investment-trend](/assets/v04-dna-cost-money-investment-trend.svg)
 
-The [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) uncovers impressive figures. The medium cost to sequence a human genome was over **USD 95 million in 2001**. By 2022, that cost dropped to **USD 525** a staggering decrease of 99.999%. Just one year later, the [Illumina Center](https://emea.illumina.com/techniques/sequencing/dna-sequencing.html) reached the **USD 200** threshold**.**
+The [NHGRI dataset](https://datahub.io/core/genome-sequencing-costs) uncovers impressive figures. The medium cost to sequence a human genome was over **USD 95 million in 2001**. By 2022, that cost dropped to **USD 525** a staggering decrease of 99.99%. Just one year later, the [Illumina Center](https://emea.illumina.com/techniques/sequencing/dna-sequencing.html) reached the **USD 200** threshold.
 
 ## **Who can benefit from the cost drop?**
 
-The exponential **999.99% decline in dollars** to sequence a human genome mirrors a well-known economic principle \- a combination of Moore’s Law and economies of scale.
+The exponential **99.99% decline in dollars** to sequence a human genome mirrors a well-known economic principle \- a combination of Moore’s Law and economies of scale.
 
 But it is not just about cost savings. It’s about **what becomes possible** when price is no longer a barrier.
 
