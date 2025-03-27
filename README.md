@@ -3,6 +3,13 @@
 Exploring the world of open data: updates, insights, and innovations to empower data-driven solutions.
 
 ---
+March 27, 2025
+
+[[the-age-of-agentic-ai-shaping-the-future-of-business-operations |The Age of Agentic AI: Shaping the Future of Business Operations]]
+
+What businesses are actually doing with AI agents and what’s coming next
+
+---
 
 March 20, 2025
 
