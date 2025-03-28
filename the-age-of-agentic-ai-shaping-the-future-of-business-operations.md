@@ -109,7 +109,7 @@ In this context, as Brian Gormley reported for [The Wall Street Journal](https:/
 
 According to [Check Point](https://blog.checkpoint.com/research/check-point-research-reports-highest-increase-of-global-cyber-attacks-seen-in-last-two-years-a-30-increase-in-q2-2024-global-cyber-attacks/?utm) research, **global cyberattacks increased by 20% in the second quarter of 2024**. AI is making them increasingly powerful, allowing them to quickly learn from failures and come back stronger than before.
 
-[V07]
+![[v07aiagentdefenseshieldcybersecurity.svg]]
 
 Linking back to the insights of a group of UK men in 2013, AI is now also implemented by [Dark Trace](https://d3.harvard.edu/platform-digit/submission/darktrace-cybersecurity-of-the-future/) to recognize any abnormal behavior. It specializes in **protecting enterprises and industrial immune systems**, detecting and solving minor threats while automating defense against previously encountered and solved attacks.
 
