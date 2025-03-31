@@ -111,7 +111,7 @@ According to [Check Point](https://blog.checkpoint.com/research/check-point-rese
 
 ![[v07aiagentdefenseshieldcybersecurity.svg]]
 
-Linking back to the insights of a group of UK men in 2013, AI is now also implemented by [Dark Trace](https://d3.harvard.edu/platform-digit/submission/darktrace-cybersecurity-of-the-future/) to recognize any abnormal behavior. It specializes in **protecting enterprises and industrial immune systems**, detecting and solving minor threats while automating defense against previously encountered and solved attacks.
+Linking back to the insights of a group of UK people in 2013, AI is now also implemented by [Dark Trace](https://d3.harvard.edu/platform-digit/submission/darktrace-cybersecurity-of-the-future/) to recognize any abnormal behavior. It specializes in **protecting enterprises and industrial immune systems**, detecting and solving minor threats while automating defense against previously encountered and solved attacks.
 
 ## The future of agentic AI and businesses
 
