@@ -7,7 +7,7 @@ authors: [Nina Komadina]
 
 ![v01-map-postal-code-shipping](/assets/v01-map-postal-code-shipping.svg)
 
-In 2022, over **161 billion parcels** were shipped worldwide: we are talking about more than 20 packages per living person\! What is even more incredible is that the **estimated compound annual growth rate is 59%**, leading to a shocking 256 billion by 2027\.
+In 2022, over **161 billion parcels** were shipped worldwide: we are talking about more than 20 packages per living person! What is even more incredible is that the **estimated compound annual growth rate has been updated to 8%**, leading to a shocking 256 billion by 2027 (source: [Business Wire](https://www.businesswire.com/news/home/20230809471409/en/Pitney-Bowes-Parcel-Shipping-Index-Confirms-Extended-Effects-of-COVID-19-Lockdowns-on-Chinese-Shipping-Through-2022?utm_source=chatgpt.com)).
 
 As international shipping companies and trading professionals rapidly expand their business, inconsistent data on postal codes can still lead them into a **real logistical nightmare**.
 
