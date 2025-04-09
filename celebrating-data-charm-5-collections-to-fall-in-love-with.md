@@ -59,7 +59,7 @@ The [**Stock Market data collection**](https://datahub.io/collections/stock-mark
 
 NASDAQ market alone [reported](https://www.nasdaqtrader.com/Trader.aspx?id=DailyMarketSummary) more than 46 million trades on February 7th, 2025,  In 2023 alone, totaling about **7.98 billion shares valued at $334 billion** \- only representing a portion of the global movements. These numbers would easily overwhelm investors who aren’t leveraging on datasets, but that’s where DataHub.io steps in.
 
-We are happy to present you with a curated selection of [**seven ready-to-use datasets**](https://datahub.io/collections/stock-market-data) to back your investment strategies with sound information. Our Stock Market collection empowers strategic decision-making at every level:
+We are happy to present you with a curated selection of [**nine ready-to-use datasets**](https://datahub.io/collections/stock-market-data) to back your investment strategies with sound information. Our Stock Market collection empowers strategic decision-making at every level:
 
 * **Traders and investors** use data to track the market trends and increase returns
 * **Financial analysts** lean on figures to develop new investment strategies and offer better counseling services
