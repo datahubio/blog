@@ -79,5 +79,7 @@ Put it simply, choosing our cloud means relying - at no cost - on a **team of ex
 
 If this is what you're looking for, don’t hesitate: **start [publishing](https://datahub.io/publish) your project now**!
 
+
 | Want data that sparks ideas and fuels your work?  <br>📩 Subscribe to our Weekly Dataset Pick and never miss a discovery!<br><br>👉 [Subscribe now](https://datahub.io/#newsletter-form) – It’s free and built for curious minds. 🚀 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
