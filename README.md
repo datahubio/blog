@@ -3,6 +3,20 @@
 Exploring the world of open data: updates, insights, and innovations to empower data-driven solutions.
 
 ---
+April 13, 2025
+
+[[datahub-cloud-publish-data-rich-projects-in-four-simple-steps|DataHub Cloud: Publishing Data-Rich Projects in Four Simple Steps]]
+
+Discover our free service for seamless community sharing.
+
+---
+April 13, 2025
+
+[[the-9-dataset-toolkit-to-unlock-stock-markets|The 9-dataset toolkit to Unlock Stock Markets]]
+
+Explore our curated collection to track trends, decode market sentiment, and outsmart volatility. All with open data.
+
+---
 March 27, 2025
 
 [[the-age-of-agentic-ai-shaping-the-future-of-business-operations|The Age of Agentic AI: Shaping the Future of Business Operations]]
