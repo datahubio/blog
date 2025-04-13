@@ -52,11 +52,12 @@ Let’s break it down. Here’s our **[Stock Market Data Collection](https://dat
 
 The first group of datasets focuses on the **S&P 500**, the most prominent stock index in the United States and a solid indicator of the market’s overall health. For the more finance-savvy, it’s a **[free-float, capitalization-weighted index](https://datahub.io/core/s-and-p-500-companies-financials)** tracking the 500 largest publicly traded US companies.
 
-| **NAME**                                                                                                     | DESCRIPTION                                                                                               |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| **[S&P 500 Companies](https://datahub.io/core/s-and-p-500-companies)**                                       | 8 variables describing each company included in the index.                                                |
-| **[S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies-financials)** | 2 datasets with 20+ in-depth  <br>variables, including labelling information, prices, highs and lows etc. |
-| **[S&P 500 Index Data Including Dividend, Earnings and P/E Ratio](https://datahub.io/core/s-and-p-500)**     | 10 variables including real earnings, dividend, PE10 and Long Interest Rate.                              |
+We offer three datasets related to the S&P 500:
+
+- **[S&P 500 Companies](https://datahub.io/core/s-and-p-500-companies)**: 8 variables describing each company included in the index;
+- **[S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies-financials)**: 2 datasets with 20+ in-depth  
+variables, including labelling information, prices, highs and lows etc;
+- **[S&P 500 Index Data Including Dividend, Earnings and P/E Ratio](https://datahub.io/core/s-and-p-500)**: 10 variables including real earnings, dividend, PE10 and Long Interest Rate.
 
 Our collection includes **three datasets**.
 ### Market Listings
