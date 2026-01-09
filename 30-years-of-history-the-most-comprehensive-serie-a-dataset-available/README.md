@@ -5,7 +5,7 @@ date: 2025-01-31
 authors: [Nina Komadina]
 ---
 
-![V01 grosso](/assets/v01-grosso-italy-world-cup-2006-football.svg)
+![V01 grosso](./v01-grosso-italy-world-cup-2006-football.svg)
 
 In the early 2000s, AC Milan built Milan Lab -  **a performance analysis system that used medical, physical, and tactical data to manage player fitness.** It helped extend the careers of stars like Paolo Maldini and Clarence Seedorf. While rivals relied on instinct and tradition, Milan used data-driven insights on player fatigue, injury prevention, and tactical efficiency - leading to Champions League triumphs and Serie A dominance.
 
@@ -15,7 +15,7 @@ That’s why we built the **Italian Serie A Dataset, a goldmine of detailed matc
 
 ## 1\. The Italian Serie A dataset identikit
 
-![V02 maradona](/assets/v02-maradona-football-dios-italy-data.svg)
+![V02 maradona](./v02-maradona-football-dios-italy-data.svg)
 
 From tactical deep dives to investment insights, this dataset offers everything from full-time results to advanced metrics like shot accuracy, disciplinary records, and corner patterns. We value the football industry professionals’ need for reliable information on a wide range of statistics. That’s why we decided to address more than 20 variables for each game: 
 
@@ -36,7 +36,7 @@ Last but not least, data visualization can be complex when dealing with large am
 
 The Italian Serie A dataset is part of a DataHub project that collected and structured comprehensive data on the **five major European football** leagues.
 
-![V03](/assets/v03-juventus-inter-milan-football-player-data.svg)
+![V03](./v03-juventus-inter-milan-football-player-data.svg)
 
 Our datasets are aimed at filling the many gaps in **football open sources**, and we are proud to say that we now offer a reliable toolkit to back **informed decision-making** for any interested professional.
 
@@ -50,13 +50,13 @@ Thus, the Italian Serie A dataset is a great fit for coaches, journalists, bookm
 
 ## 3\. How to use the Italian Serie A dataset
 
-![v ronaldino](/assets/v04-ronaldinho-football-milan-italy-data.svg)
+![v ronaldino](./v04-ronaldinho-football-milan-italy-data.svg)
 
 Although the high usability of the Italian Serie A dataset makes it accessible to fans and amateurs, it is no secret that DataHub.io engineers crafted this open-source repository with **professionals** in mind.
 
 We think indeed that its **depth and consistency** make it highly suitable for many football-related businesses.
 
-![V05](/assets/v05-investors-serie-a-italy-soccer-board.svg)
+![V05](./v05-investors-serie-a-italy-soccer-board.svg)
 
 * **Investors and stakeholders**: the Italian Serie A showed interesting revenue increases in the last years, with a **21% increase** just between the 2021-2022 and 2022-2023 seasons. [Deloitte](https://www.deloitte.com/uk/en/services/financial-advisory/analysis/deloitte-football-money-league.html) moreover ranked Juventus, AC Milan, FC Inter, and Napoli within the **top 20 revenue-generating** clubs globally.
   * Data-driven money allocation
@@ -73,7 +73,7 @@ We think indeed that its **depth and consistency** make it highly suitable for m
   * Craft targeted training sessions
   * Individuation of critical spots
 
-![V06](/assets/v06-ranieri-rome-football-data-stats-ia.svg)
+![V06](./v06-ranieri-rome-football-data-stats-ia.svg)
 
 * **Journalists and content creators**: the Italian Serie A is one of the most competitive leagues in the world, recently having surpassed Spain in the UEFA ranking and aiming to have **two additional spots** for the next Champions League (source: [Tutto Atalanta](https://www.tuttoatalanta.com/champions-league/ranking-uefa-italia-in-fuga-sulla-spagna-obiettivo-due-posti-extra-in-champions-113024)). Its strong hinge on tactical aspects makes sound data crucial in crafting **engaging narratives**.
   * Building hype before a game

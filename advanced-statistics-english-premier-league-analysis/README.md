@@ -5,7 +5,7 @@ date: 2025-01-24
 authors: [Nina Komadina]
 ---
 
-![](/assets/v01-rooney-premier-league-football-champion-man-united.svg)
+![](./v01-rooney-premier-league-football-champion-man-united.svg)
 
 Data is the new **currency of football**, and the [English Premier League dataset](https://datahub.io/core/english-premier-league) is your key to unlocking its wealth.
 
@@ -21,7 +21,7 @@ In contemporary football, familiarity with the **matches’ statistics** transfo
 
 Before our [English Premier League dataset](https://datahub.io/core/english-premier-league), investigating the figures from the home of football was laborious and often stressful. DataHub's repository now offers overarching data **from ‘93-’94 up to the current season**, for a total of 32 files.
 
-![](/assets/v02-drogba-de-jong-premier-league-football-match.svg)
+![](./v02-drogba-de-jong-premier-league-football-match.svg)
 
 We value the football industry professionals’ need for reliable information on a wide range of statistics. That’s why we decided to address **more than 20 variables** for each game:
 
@@ -44,7 +44,7 @@ The [English Premier League](https://datahub.io/core/english-premier-league) dat
 
 As data professionals and football fans, we are proud to have created detailed datasets that fill many of the gaps in existing open-source information. Our prime aim is to provide professionals with **detailed**, **consistent**, and **highly usable** datasets, allowing them to have a backbone for their **management decisions**.
 
-![](/assets/v03-emirates-saudi-investors-football-match-stadium-premier-league.svg)
+![](./v03-emirates-saudi-investors-football-match-stadium-premier-league.svg)
 
 That’s why, in each of our datasets on the **five major European football leagues**, we have valued:
 
@@ -65,7 +65,7 @@ We think indeed that its **depth and consistency** make it highly suitable for m
   * Spotting the most consistent clubs
   * Individuate possibly profitable underdogs
 
-![](/assets/v04-pep-guardiola-man-city-football-tactics.svg)
+![](./v04-pep-guardiola-man-city-football-tactics.svg)
 
 * **Team management**: from Jürgen Klopp’s Liverpool to Pep Guardiola’s Manchester City, football's game-changers of the last years have all integrated data analytics into their **coaching**. But why did they choose statistics to improve their teams’ performances?
   * Matchday preparation
@@ -85,7 +85,7 @@ We think indeed that its **depth and consistency** make it highly suitable for m
   * Identify the most consistent and/or spectacular teams
   * Evaluate the team’s possible public appeal
 
-![](/assets/v05-big-ben-uk-football-bet-gambling.svg)
+![](./v05-big-ben-uk-football-bet-gambling.svg)
 
 * **Betting industry**: England is not only the home of the game but also the home of football gambling. As reported by [SafeBettingSites](https://www.safebettingsites.com/2021/09/28/premier-league-generated-over-68b-on-wagers-more-than-serie-a-and-bundesliga-combined/), bets on the Premier League generated **over €68 billion worldwide**, surpassing the sum of the Italian Serie A and German Bundesliga.
   * Bookmaking support
