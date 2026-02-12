@@ -5,7 +5,7 @@ authors: ['Ola Rubaj']
 filetype: 'blog'
 ---
 
-![[../assets/dataview.gif]]
+![[dataview.gif]]
 
 Have you ever wanted to create a catalog of stuff? Maybe it's a list of personal projects, maybe favourite books or movies, or perhaps the options for the next smartphone you'll buy. But you've found yourself deterred by expensive software, lack of flexibility in capturing and modifying the structure of the data, or lack of control over it?
 
@@ -116,7 +116,7 @@ Let's break it down:
 
 After you click somewhere outside of this code block, you should see the following table:
 
-![[../assets/table1.png]]
+![[table1.png]]
 
 ## Step 4: Add more metadata about characters
 
@@ -154,7 +154,7 @@ sort name asc
 
 After clicking somewhere outside the code block, you should see an updated table that includes the column `creature`.
 
-![[../assets/table2.png]]
+![[table2.png]]
 
 ## Step 5: Enrich content with images and links
 
@@ -164,7 +164,7 @@ To enhance your catalog, you can add images of characters, and links to other ch
 
 To add an image of a character, right-click on the image you want to embed and copy it to clipboard - you can use the image below - and paste it directly in your markdown file.
 
-![[../assets/harry_original.png]]
+![[harry_original.png]]
 
 Obsidian will automatically save the file to the root of your vault and create a link to it in your content, so you'll end up with a link similar to this one:
 
@@ -174,7 +174,7 @@ Obsidian will automatically save the file to the root of your vault and create a
 
 Which will render as:
 
-![[../assets/harry.png]]
+![[harry.png]]
 
 #### Add links to other pages
 
@@ -188,7 +188,7 @@ He is a friend of [[Hermione]].
 
 When you click on Hermione's name in the rendered link, Obsidian will take you to Hermione's file in your vault. If you hover over it, you'll see a preview of Hermione's file:
 
-![[../assets/link-preview.png]]
+![[link-preview.png]]
 
 ## Summary
 

@@ -22,7 +22,7 @@ The structure and text formatting of the documents are created with markdown (ta
 
 That's why it's possible to add a chart like this one:
 
-![[assets/tutorial-1-line-chart.png]]
+![[tutorial-1-line-chart.png]]
 
 Using just a simple snippet:
 
