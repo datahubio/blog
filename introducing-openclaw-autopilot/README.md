@@ -5,6 +5,8 @@ date: 2026-02-23
 authors: [Anuar Ustayev]
 ---
 
+![[hero.png]]
+
 OpenClaw Autopilot is built for people who want more than a chatbot.
 
 Most assistants reset every session. OpenClaw Autopilot does not.
