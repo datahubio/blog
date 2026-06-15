@@ -101,3 +101,5 @@ The underlying numbers for carbon, prize money, and ticket prices exist in FIFA 
 **These datasets are built for reuse.** Pull them into your own analysis pipeline, build your own charts, verify our methodology, or extend the series when 2026 final figures are published.
 
 They join our [92-year World Cup results dataset](https://datahub.io/football/worldcup) published last month. All football datasets are collected at [datahub.io/football](https://datahub.io/football).
+
+_[DataHub.io](https://www.datahub.io/) is a platform for high-quality open datasets — free to use, fully documented, and built for reuse. Built by [Datopian](https://www.datopian.com/)._
