@@ -5,6 +5,8 @@ date: 2026-06-15
 authors: [Anuar Ustayev, Yoana Popova]
 ---
 
+![[world-cup-1.png]]
+
 [The 2026 FIFA World Cup](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026) is the most commercially and environmentally consequential tournament ever staged. It is also one of the most data-polluted: carbon figures that compare incompatible accounting scopes, ticket prices that mix face value with resale, prize money totals that shift definition between editions.
 
 We spent the past month building three datasets that treat these problems explicitly rather than silently. The methodology notes are in the data. The exclusions are flagged. The scope differences are labelled.
@@ -12,6 +14,8 @@ We spent the past month building three datasets that treat these problems explic
 Here is what the numbers show when handled carefully.
 
 ## Dataset 1: World Cup Carbon Footprint
+
+![[airplane.png]]
 
 → [worldcup-carbon-footprint on DataHub](https://datahub.io/football/worldcup-carbon-footprint)
 
@@ -35,6 +39,8 @@ The structural driver is unambiguous: 86% of projected 2026 emissions — 7.72 m
 → [Read the full story](https://datahub.io/football/each-world-cups-carbon-footprint)
 
 ## Dataset 2: World Cup Prize Money
+
+![[trophy.png]]
 
 → [worldcup-prize-money on DataHub](https://datahub.io/football/worldcup-prize-money)
 
@@ -64,6 +70,8 @@ The 2022 men's pool ($440M) was four times the 2023 Women's World Cup pool ($110
 → [Read the full story](https://datahub.io/football/42-million-to-win)
 
 ## Dataset 3: World Cup Ticket Prices
+
+![[datahub-tickets.png]]
 
 → [worldcup-ticket-prices on DataHub](https://datahub.io/football/worldcup-ticket-prices)
 
