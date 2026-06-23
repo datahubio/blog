@@ -3,6 +3,15 @@
 Exploring the world of open data: updates, insights, and innovations to empower data-driven solutions.
 
 ---
+
+June 23, 2026
+
+[[oil-prices|A Century of Shocks: What Oil Prices Reveal About the World]]
+
+Brent crude oil prices tell the story of wars, recessions, and energy revolutions — all in a single line chart.
+
+---
+
 April 13, 2025
 
 [[datahub-cloud-publish-data-rich-projects-in-four-simple-steps|DataHub Cloud: Publishing Data-Rich Projects in Four Simple Steps]]
