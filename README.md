@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+June 24, 2026
+
+[[150-years-of-the-s-p-500-what-the-data-really-shows|150 Years of the S&P 500: What the Data Really Shows]]
+
+A deep dive into 150 years of S&P 500 data, revealing how inflation, valuation cycles, and long-term growth shape investor returns.
+
+---
+
 June 23, 2026
 
 [[oil-prices|A Century of Shocks: What Oil Prices Reveal About the World]]
