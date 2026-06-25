@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+June 25, 2026
+
+[[how-the-world-s-biggest-economies-shifted-over-two-decades|How the World's Biggest Economies Shifted Over Two Decades]]
+
+A look at how global GDP rankings changed from 2000 to 2023, revealing the dramatic rise of China and the pressures on Western dominance.
+
+---
+
 June 24, 2026
 
 [[150-years-of-the-s-p-500-what-the-data-really-shows|150 Years of the S&P 500: What the Data Really Shows]]
