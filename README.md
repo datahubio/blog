@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+June 26, 2026
+
+[[natural-gas-prices-a-story-of-booms-busts-and-shale|Natural Gas Prices: A Story of Booms, Busts, and Shale]]
+
+How Henry Hub natural gas prices have swung wildly since 1997, and what the data reveals about energy markets, shale, and global supply.
+
+---
+
 June 25, 2026
 
 [[how-the-world-economy-reshuffled-between-2000-and-2023|How the World Economy Reshuffled Between 2000 and 2023]]
