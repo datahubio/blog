@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+June 29, 2026
+
+[[the-trillion-fold-rise-how-ai-training-compute-exploded|The Trillion-Fold Rise: How AI Training Compute Exploded]]
+
+A data-driven look at how the computing power behind notable AI models has grown by over a trillion times in just a few decades.
+
+---
+
 June 26, 2026
 
 [[natural-gas-prices-a-story-of-booms-busts-and-shale|Natural Gas Prices: A Story of Booms, Busts, and Shale]]
