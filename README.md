@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+June 30, 2026
+
+[[the-fear-gauge-what-the-vix-tells-us-about-market-panic|The Fear Gauge: What the VIX Tells Us About Market Panic]]
+
+A deep dive into the CBOE Volatility Index, the market's most watched measure of fear and uncertainty since 1990.
+
+---
+
 June 29, 2026
 
 [[the-trillion-fold-rise-how-ai-training-compute-exploded|The Trillion-Fold Rise: How AI Training Compute Exploded]]
