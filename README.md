@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+July 1, 2026
+
+[[270-years-of-burning-the-story-behind-global-co2-data|270 Years of Burning: The Story Behind Global CO₂ Data]]
+
+A data-driven look at how fossil fuel emissions have grown from a trickle to a flood since the Industrial Revolution.
+
+---
+
 June 30, 2026
 
 [[the-fear-gauge-what-the-vix-tells-us-about-market-panic|The Fear Gauge: What the VIX Tells Us About Market Panic]]
