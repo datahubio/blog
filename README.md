@@ -4,6 +4,14 @@ Exploring the world of open data: updates, insights, and innovations to empower 
 
 ---
 
+July 2, 2026
+
+[[the-keeling-curve-60-years-of-co2-rising-without-a-break|The Keeling Curve: 60 Years of CO₂ Rising Without a Break]]
+
+A deep dive into the longest continuous record of atmospheric CO₂, showing what the numbers reveal about our changing planet.
+
+---
+
 July 1, 2026
 
 [[270-years-of-burning-the-story-behind-global-co2-data|270 Years of Burning: The Story Behind Global CO₂ Data]]
